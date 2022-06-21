@@ -6,3 +6,4 @@ Therefore, there is a need for a platform that can quantitatively measure and vi
 # App tools
 ## Panorama
 This tool functions as an image processing tool that displays panoramic views of the airstrip. These are 360 degree image files which are geotagged to the location it was taken. The tool provides an immersive environment that has the same aesthetic look and function of google streetview. Currently under development to include an upload button to upload these 360 degree image files.
+![image](https://user-images.githubusercontent.com/73019564/174815461-7aceb0e2-b0bb-4f85-9c65-92699a829793.png)
