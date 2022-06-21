@@ -31,8 +31,6 @@ var <- tm_shape(pngmap)+ tm_fill("IQR",id="ADM1_EN", alpha = 0.5) + tm_view(set.
 airstrip <- read_csv("data/airports_geocoded.csv")# this is the data from which the airstrip information is obtained
 airstrip_sf <- st_as_sf(airstrip, coords = c("longitude_", "latitude_d"), crs = 4326) # Geocoded the airstrip object using st_as_sf()
 
-airstrip2 <- vroom("data/airports_geocoded.csv")
-
 # data required for static info box.
 airstrip_count <- count(airstrip, "name") # counted the number of airstrips in the column titled "name".
 total_count <- airstrip_count %>% dplyr::select(n) %>% filter(n == airstrip_count$n) # Then filtered to only display the value of the count
@@ -61,12 +59,12 @@ prov_list <- c(pngmap$ADM1_EN)
 # Elevation raster in ft
 #dem <- raster("data/PNG_dem_feet.tif")
 #save(dem, file = "dem1.rda")
-load("dem1.rda")
+#load("dem1.rda")
 
 # Elevation in meters
 #dem_meters1 <- brick("data/PNG_dem_meters.tif")
 #save(dem_meters, file ="dem2_meters.rda")
-load("dem2_meters.rda")
+#load("dem2_meters.rda")
 
 
 
