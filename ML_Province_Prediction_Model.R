@@ -23,4 +23,5 @@ fit.rf <- train(Province.Name~., data=dataset, method="rf", metric=metric, trCon
 
 #save model
 #save(fit.rf, file="fit.rf.rda")
+#saveRDS(fit.rf, "provinceModel.rds")
 #load("fit.rf.rda")
