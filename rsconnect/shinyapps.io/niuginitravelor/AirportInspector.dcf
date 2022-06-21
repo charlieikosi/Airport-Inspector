@@ -1,0 +1,13 @@
+name: AirportInspector
+title: AirportInspector
+username:
+account: niuginitravelor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6459017
+bundleId: 5992180
+url: https://niuginitravelor.shinyapps.io/AirportInspector/
+when: 1654772508.45382
+lastSyncTime: 1654772508.45382
+asMultiple: FALSE
+asStatic: FALSE
