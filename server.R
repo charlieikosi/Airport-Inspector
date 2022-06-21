@@ -107,7 +107,7 @@ server <-function(input, output, session) {
     predictionVar <- tibble(Latitude = as.numeric(input$latitude),
                             Longitude = as.numeric(input$longitude),
                             Elevation = as.numeric(input$elevation))
-    result <- predict(fit.r, predictionVar) %>% as.character()
+    result <- predict(predictionModel, predictionVar) %>% as.character()
   })
   
   output$prediction_result <- renderText({
