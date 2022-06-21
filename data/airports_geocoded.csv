@@ -1,0 +1,583 @@
+ident,name,type,latitude_d,longitude_,elevation_,municipali,LLG_Pcode,LLG_Name,Dis_Pcode,District_Name,Prov_Pcode,Prov_name
+ABW,Abau Airport,closed,-10.1956,148.7389,10,Abau,PG030103,Cloudy Bay Rural LLG,PG0301,Abau District,PG03,Central Province
+AFR,Afore Airstrip,small_airport,-9.142222222,148.3908333,2500,,PG060103,Afore Rural LLG,PG0601,Ijivitari District,PG06,Northern (Oro) Province
+PG-0001,Agali Airstrip,small_airport,-5.344377464,142.214241,2750,,PG210515,Lake Kopiago Rural LLG,PG2105,Koroba/Kopiago District,PG21,Hela Province
+AUP,Agaun Airport,small_airport,-9.930833,149.385667,3200,,PG050102,Daga Rural LLG,PG0501,Alotau District,PG05,Milne Bay Province
+PG-0002,Agotu Airstrip,small_airport,-6.5,145.2413889,5675,Agotu,PG110520,Mt. Michael Rural LLG,PG1105,Lufa District,PG11,Eastern Highlands Province
+AIH,Aiambak Airport,small_airport,-7.342777778,141.2675,90,Aiambak,PG010104,Lake Murray Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+AIE,Aiome Airport,small_airport,-5.145699978,144.7307003,350,Aiome,PG130307,Arabaka Rural LLG,PG1303,Middle Ramu District,PG13,Madang Province
+ATP,Aitape Airport,small_airport,-3.143611111,142.3468056,10,Aitape,PG150101,East Aitape Rural LLG,PG1501,Aitape/Lumi District,PG15,West Sepik (Sandaun) Province
+AYU,Aiyura Airport,small_airport,-6.338055556,145.9041667,5355,Aiyura Valley,PG110419,Kamano No. 2 Rural LLG,PG1104,Kainanatu District,PG11,Eastern Highlands Province
+PG-0003,Akwom Airstrip,small_airport,-3.94,141.8327778,160,,PG150308,Namea Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+PG-0004,Ali Airstrip,small_airport,-7.916666667,142.3391667,80,Ali,PG010103,Gogodala Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+AMF,Ama Airport,small_airport,-4.101111111,141.67,145,,PG140104,Tunap/Hustein LLG,PG1401,Ambunti/Drekikier District,PG14,East Sepik Province
+AMU,Amanab Airport,small_airport,-3.586,141.2143333,1307,Amanab,PG150412,Amanab Rural LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+AZB,Amazon Bay Airport,small_airport,-10.29916667,149.3383333,12,,PG030101,Amazon Bay Rural LLG,PG0301,Abau District,PG03,Central Province
+PG-0013,Ambaluwa Airstrip,small_airport,-5.720277778,144.9211111,6568,Ambulua,PG220407,Kol Rural LLG,PG2204,Jimi District,PG22,Jiwaka Province
+PG-0012,Ambua Airstrip,small_airport,-5.962222222,143.0638889,6600,Ambua Lodge - Tari,PG210411,Hulia Rural LLG,PG2104,Komo/Magarima District,PG21,Hela Province
+AUJ,Ambunti Airport,small_airport,-4.215666667,142.8231667,50,Ambunti,PG140101,Ambunti Rural LLG,PG1401,Ambunti/Drekikier District,PG14,East Sepik Province
+PG-0014,Anangalo Airstrip,small_airport,-4.6,143.8434722,70,,PG140209,Yuat Rural LLG,PG1402,Angoram District,PG14,East Sepik Province
+ADC,Andakombe Airport,small_airport,-7.137222222,145.7447222,3600,Andekombe,PG110609,Yelia Rural LLG,PG1106,Obura/Wonenara District,PG11,Eastern Highlands Province
+PG-0015,Ande Airstrip,small_airport,-7.020833333,145.8222222,5400,Sindeni,PG110609,Yelia Rural LLG,PG1106,Obura/Wonenara District,PG11,Eastern Highlands Province
+PG-0074,Angai Airstrip,small_airport,-7.4021,145.7899,2575,Angai,PG020105,Kotidanga Rural LLG,PG0201,Kerema District,PG02,Gulf Province
+AGG,Angoram Airport,small_airport,-4.055833333,144.0738889,75,Angoram,PG140205,Angoram/Middle Sepik LLG,PG1402,Angoram District,PG14,East Sepik Province
+PG-AKG,Anguganak Airport,small_airport,-3.560504,142.217307,937,Anguganak,PG150207,Yangkok Rural LLG,PG1502,Nuku District,PG15,West Sepik (Sandaun) Province
+AOB,Annanberg Airport,small_airport,-4.904166667,144.6358333,130,,PG130307,Arabaka Rural LLG,PG1303,Middle Ramu District,PG13,Madang Province
+PG-0046,Appa Airstrip,small_airport,-6.516759,144.706808,3800,,PG100307,Karimui Rural LLG,PG1003,Karimui/Nomane District,PG10,Chimbu (Simbu) Province
+APR,April River Airport,small_airport,-4.676666667,142.5401389,220,April River,PG140104,Tunap/Hustein LLG,PG1401,Ambunti/Drekikier District,PG14,East Sepik Province
+ARP,Aragip Airport,small_airport,-9.883333333,149.4833333,1750,,PG050102,Daga Rural LLG,PG0501,Alotau District,PG05,Milne Bay Province
+RAW,Arawa Airport,small_airport,-6.220555556,155.5713889,20,Arawa,PG200208,Arawa LLG,PG2002,Central Bougainville District,PG20,Autonomous Region of Bougainville
+PG-0077,Arisili Airstrip,closed,-3.55,142.847,1350,Arisili,PG140102,Dreikikier Rural LLG,PG1401,Ambunti/Drekikier District,PG14,East Sepik Province
+PG-0047,Arkosame Airstrip,small_airport,-3.777177,142.622672,622,,PG150205,Mawase Rural LLG,PG1502,Nuku District,PG15,West Sepik (Sandaun) Province
+PG-0079,Aro Airstrip,small_airport,-7.991,147.24,2200,Aro,PG120102,Waria Rural LLG,PG1201,Bulolo District,PG12,Morobe Province
+AOA,Aroa Airport,closed,-9.0254,146.8,20,Agevairu,PG030308,Kairuku Rural LLG,PG0303,Kairuku - Hiri District,PG03,Central Province
+AYAU,Arou Airstrip,small_airport,-5.4951,142.5137,4830,Arou,PG210515,Lake Kopiago Rural LLG,PG2105,Koroba/Kopiago District,PG21,Hela Province
+PG-0016,Arufi Airstrip,small_airport,-8.753888889,141.9113889,80,Arufi,PG010313,Morehead Rural LLG,PG0103,South Fly District,PG01,Western Province
+PG-0017,Asama Airstrip,small_airport,-8.023333333,147.2716667,1800,,PG060208,Kira Rural LLG,PG0602,Sohe District,PG06,Northern (Oro) Province
+APP,Asapa Airport,small_airport,-8.979166667,148.1036111,1930,,PG060205,Kokoda Rural LLG,PG0602,Sohe District,PG06,Northern (Oro) Province
+AEK,Aseki Airport,small_airport,-7.350804856,146.1938667,4106,Aseki,PG120734,Nanima Kariba LLG,PG1207,Menyamya District,PG12,Morobe Province
+PG-0018,Asimba Airstrip,small_airport,-8.605,147.5919444,1170,Asimba,PG060205,Kokoda Rural LLG,PG0602,Sohe District,PG06,Northern (Oro) Province
+PG-0056,Asinuwa Airstrip,small_airport,-7.0287,145.7678,5900,Amjenuwa,PG110609,Yelia Rural LLG,PG1106,Obura/Wonenara District,PG11,Eastern Highlands Province
+ASZ,Asirim Airport,small_airport,-6.009722222,150.3686111,1050,,PG190101,Gasmata Rural LLG,PG1901,Kandrian/Gloucester District,PG19,West New Britain Province
+PG-0019,Assengseng Airstrip,small_airport,-6.023611111,149.7858333,1550,Assengseng,PG190104,Kandrian Inland Rural LLG,PG1901,Kandrian/Gloucester District,PG19,West New Britain Province
+ABP,Atkamba Airport,small_airport,-6.065555556,141.0952778,150,Atkamba Mission,PG010206,Kiunga Rural LLG,PG0102,North Fly District,PG01,Western Province
+AUI,Aua Island Airport,small_airport,-1.460555556,143.0647222,4,Aua Island,PG160101,Aua Wuvulu LLG,PG1601,Manus District,PG16,Manus Province
+AUV,Aumo Airport,small_airport,-5.731111111,148.4452778,450,Aumo,PG190102,Gloucester Rural LLG,PG1901,Kandrian/Gloucester District,PG19,West New Britain Province
+PG-0057,Auwi Airstrip,small_airport,-5.51,142.6392,5155,Auwi,PG210514,Awi/Pori Rural LLG,PG2105,Koroba/Kopiago District,PG21,Hela Province
+PG-AWB,Awaba Airport,small_airport,-8.006110191,142.7483521,32,Awaba,PG010103,Gogodala Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+PG-0080,Awala Airstrip,closed,-9.5487,148.4156,730,Sinua Valley,PG060109,Safia Rural LLG,PG0601,Ijivitari District,PG06,Northern (Oro) Province
+AWR,Awar Airport,closed,-4.124,144.853,35,Awar,PG130103,Yawar Rural LLG,PG1301,Bogia District,PG13,Madang Province
+PG-0058,Aziana Airstrip,small_airport,-6.7495,145.8535,4250,Aziana Mission,PG110609,Yelia Rural LLG,PG1106,Obura/Wonenara District,PG11,Eastern Highlands Province
+PG-0081,Babmo Airstrip,closed,-3.7888,142.9552,290,Babmo Mission,PG140521,North Wosera Rural LLG,PG1405,Wosera Gawi District,PG14,East Sepik Province
+BAP,Baibara Airport,closed,-10.3432,149.6414,15,Nabai,PG030101,Amazon Bay Rural LLG,PG0301,Abau District,PG03,Central Province
+PG-VMU,Baimuru Airport,medium_airport,-7.496860027,144.8199005,27,Baimuru,PG020207,Baimuru Rural LLG,PG0202,Kikori District,PG02,Gulf Province
+PG-0059,Baina Airstrip,small_airport,-6.8918,143.6818,215,Baina,PG020210,West Kikori Rural LLG,PG0202,Kikori District,PG02,Gulf Province
+BDZ,Baindoung Airport,small_airport,-6.347222222,146.9422222,4400,,PG120824,Nabak Rural LLG,PG1208,Nawae District,PG12,Morobe Province
+AYBB,Bak Airstrip,small_airport,-5.2685,142.097,5440,Bak,PG150309,Oksapmin Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+BAJ,Bali Airport,small_airport,-4.883333333,149.1333333,90,Unea Island,PG190207,Bali/Witu Rural LLG,PG1902,Talasea District,PG19,West New Britain Province
+PG-OPU,Balimo Airport,medium_airport,-8.050000191,142.9329987,51,Balimo,PG010103,Gogodala Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+BCP,Bambu Airport,small_airport,-5.863611111,146.4925,6790,Bambu,PG130418,Rai Coast Rural LLG,PG1304,Rai Coast District,PG13,Madang Province
+BMZ,Bamu Airport,small_airport,-7.8485,143.2433,50,Bamu,PG010102,Bamu Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+PG-0045,Bank Airstrip,small_airport,-5.364495,144.689805,3953,Bank,PG130619,Gama  Rural LLG,PG1306,Usino Bundi District,PG13,Madang Province
+BNZ,Banz Airport,closed,-5.807,144.623,5150,Banz,PG220611,North Waghi Rural LLG,PG2206,North Waghi District,PG22,Jiwaka Province
+PG-0020,Bapi Airstrip,small_airport,-7.743611111,147.0205556,2930,Bapi,PG120102,Waria Rural LLG,PG1201,Bulolo District,PG12,Morobe Province
+PG-0073,Basikuna Airstrip,small_airport,-6.4445,155.6832,1870,Basikuna,PG200208,Arawa LLG,PG2002,Central Bougainville District,PG20,Autonomous Region of Bougainville
+AYBT,Batri Airstrip,small_airport,-6.5522,143.9441,4510,Batri,PG070308,Erave Rural LLG,PG0703,Kagua/Erave District,PG07,Southern Highlands Province
+BWJ,Bawan Airport,small_airport,-6.396944444,146.8816667,4700,,PG120825,Wain-Erap Rural LLG,PG1208,Nawae District,PG12,Morobe Province
+AYBS,Begesin Airstrip,small_airport,-5.3889,145.4472,980,Begesin,PG130616,Usino Rural LLG,PG1306,Usino Bundi District,PG13,Madang Province
+PG-0021,Benaria Airstrip,small_airport,-6.058888889,143.0338889,4960,Tamide Mission,PG210411,Hulia Rural LLG,PG2104,Komo/Magarima District,PG21,Hela Province
+BSP,Bensbach Airport,small_airport,-8.858055556,141.2594444,30,Bensbach,PG010313,Morehead Rural LLG,PG0103,South Fly District,PG01,Western Province
+BEA,Bereina Airport,closed,-8.64,146.5083,58,Bereina Mission,PG030308,Kairuku Rural LLG,PG0303,Kairuku - Hiri District,PG03,Central Province
+PG-0061,Berry Airfield,closed,-9.388829,147.245228,115,Port Moresby,PG040101,National Capital District,PG0401,National Capital District,PG04,National Capital District
+BWP,Bewani Airport,small_airport,-3.021666667,141.1652778,550,Bewani,PG150413,Bewani/Wutung Onei Rural LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+PG-BAA,Bialla Airport,small_airport,-5.330560207,151.0079956,51,"Bialla, Matalilu, Ewase",PG190206,Bialla Rural LLG,PG1902,Talasea District,PG19,West New Britain Province
+PG-0022,Biangabip Airport,small_airport,-5.526388889,141.7445833,1069,Biangabip,PG010209,Olsobip Rural LLG,PG0102,North Fly District,PG01,Western Province
+AYBR,Biaru Airport,small_airport,-7.6693,146.7594,4900,Biaru,PG120105,Wau Rural LLG,PG1201,Bulolo District,PG12,Morobe Province
+PG-0023,Bili Airstrip,small_airport,-5.667222222,151.0994444,2600,Bili,PG180314,West Pomio/Mamusi Rural LLG,PG1803,Pomio District,PG18,East New Britain Province
+BIJ,Biliau Airport,closed,-5.578,146.339,50,Biliau,PG130412,Rai Coast Rural LLG,PG1304,Rai Coast District,PG13,Madang Province
+BIZ,Bimin Airport,closed,-5.286111111,142.0330556,5775,,PG150309,Oksapmin Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+XBN,Biniguni Airport,small_airport,-9.6425,149.3038889,215,Biniguni,PG050101,Makamaka Rural LLG,PG0501,Alotau District,PG05,Milne Bay Province
+PG-0025,Bisorio Airstrip,small_airport,-4.721666667,142.9772222,160,,PG140206,Karawari Rural LLG,PG1402,Angoram District,PG14,East Sepik Province
+AYBW,Blackwara Airport,small_airport,-2.618211,141.091971,58,,PG150413,Bewani/Wutung Onei Rural LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+BNV,Boana Airport,closed,-6.433,146.825,2950,Boana,PG120825,Wain-Erap Rural LLG,PG1208,Nawae District,PG12,Morobe Province
+BOV,Boang Airport,small_airport,-3.3834,153.2812,85,Boang Island,PG170208,Tanir Rural LLG,PG1702,Namatanai District,PG17,New Ireland Province
+BNM,Bodinumu Airport,small_airport,-9.107777778,147.6667222,3700,Bodinumu,PG030309,Koiari Rural LLG,PG0303,Kairuku - Hiri District,PG03,Central Province
+PG-0026,Boikoa Airstrip,small_airport,-7.038611111,145.7341667,4816,Boikoa,PG110609,Yelia Rural LLG,PG1106,Obura/Wonenara District,PG11,Eastern Highlands Province
+BOQ,Boku Airport,closed,-6.5427,155.3419,225,Boku,PG200311,Bana LLG,PG2003,South Bougainville District,PG20,Autonomous Region of Bougainville
+BVP,Bolovip Airstrip,closed,-5.3633,141.655,4990,Bolovip,PG010209,Olsobip Rural LLG,PG0102,North Fly District,PG01,Western Province
+BMH,Bomai Airport,small_airport,-6.373166667,144.637,3300,Bomai,PG100307,Karimui Rural LLG,PG1003,Karimui/Nomane District,PG10,Chimbu (Simbu) Province
+PG-0027,Bosavi Airstrip,small_airport,-6.461666667,142.8411111,2350,Ludesa Mission,PG070723,Mt Bosavi Rural LLG,PG0707,Nipa/Kutubu District,PG07,Southern Highlands Province
+BOT,Bosset Airport,small_airport,-7.237257,141.1063222,80,Bosset,PG010104,Lake Murray Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+PG-0028,Boure Airstrip,small_airport,-9.617916667,148.7458333,530,Boure,PG060109,Safia Rural LLG,PG0601,Ijivitari District,PG06,Northern (Oro) Province
+AYUG,Brugam Airstrip,small_airport,-3.6381,142.8379,595,Wa'ahun,PG140311,Bumbita/Muhian Rural LLG,PG1403,Maprik District,PG14,East Sepik Province
+UBI,Buin Airport,small_airport,-6.729166667,155.6833333,230,Buin,PG200309,Buin LLG,PG2003,South Bougainville District,PG20,Autonomous Region of Bougainville
+AYBK,Buka Airport,medium_airport,-5.422319889,154.6730042,11,Buka Island,PG200104,Buka LLG,PG2001,North Bougainville District,PG20,Autonomous Region of Bougainville
+BUL,Bulolo Airport,small_airport,-7.216286671,146.6495419,2240,Bulolo,PG120104,Wau/Bulolo Urban LLG,PG1201,Bulolo District,PG12,Morobe Province
+AYXB,Buluwo Airstrip,small_airport,-3.6753,142.0151,600,Buluwo,PG150102,East Wapei Rural LLG,PG1501,Aitape/Lumi District,PG15,West Sepik (Sandaun) Province
+AYUN,Bunam Airstrip,small_airport,-4.6564,144.2517,48,Bunam,PG140207,Keram Rural LLG,PG1402,Angoram District,PG14,East Sepik Province
+BNT,Bundi Airport,small_airport,-5.742222222,145.2275,4400,Bundi,PG130615,Bundi Rural LLG,PG1306,Usino Bundi District,PG13,Madang Province
+AYUT,Bunguwat Airstrip,small_airport,-6.005,146.7205,5740,Bunguwat,PG120414,Yus Rural LLG,PG1204,Kabwum District,PG12,Morobe Province
+BXZ,Bunsil Airport,small_airport,-5.7243,147.8667,201,Bunsil - Umboi Island,PG120927,Siassi Rural LLG,PG1209,Tawae/Siassi District,PG12,Morobe Province
+AYIN,Busilmin Airstrip,small_airport,-4.9166,141.1548,5450,Busilmin,PG150311,Yapsie Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+PG-0060,Bu'u Airstrip,small_airport,-7.4011,145.8149,3950,Bu'u,PG020105,Kotidanga Rural LLG,PG0201,Kerema District,PG02,Gulf Province
+CGC,Cape Gloucester Airport,small_airport,-5.458965,148.432417,78,Cape Gloucester,PG190102,Gloucester Rural LLG,PG1901,Kandrian/Gloucester District,PG19,West New Britain Province
+PG-0005,Cape Rodney Airport,small_airport,-10.179823,148.3790302,22,Cape Rodney,PG030102,Aroma Rural LLG,PG0301,Abau District,PG03,Central Province
+CVL,Cape Vogel Airport,small_airport,-9.67,150.0197222,20,,PG050101,Makamaka Rural LLG,PG0501,Alotau District,PG05,Milne Bay Province
+AYCH,Chimbu Airport,medium_airport,-6.024290085,144.970993,4974,Kundiawa,PG100513,Kundiawa Urban LLG,PG1005,Kundiawa/Gembogl District,PG10,Chimbu (Simbu) Province
+SQT,China Strait Airstrip,small_airport,-10.56277778,150.6906944,10,Samarai Island,PG050208,Bwanabwana Rural LLG,PG0502,Samarai-Murua District,PG05,Milne Bay Province
+PG-CVB,Chungribu Airport,small_airport,-4.806620121,144.7149963,130,Chungribu,PG130307,Arabaka Rural LLG,PG1303,Middle Ramu District,PG13,Madang Province
+DAO,Dabo Airport,small_airport,-8.431944444,147.8430556,118,,PG060207,Tamata Rural LLG,PG0602,Sohe District,PG06,Northern (Oro) Province
+PG-0032,Dahamo Airstrip,small_airport,-5.753194444,141.9936111,460,Dahamo Village,PG010209,Olsobip Rural LLG,PG0102,North Fly District,PG01,Western Province
+AYDU,Daru Airport,medium_airport,-9.086759567,143.2079926,20,Daru,PG010311,Kiwai Rural LLG,PG0103,South Fly District,PG01,Western Province
+DAF,Daup Airport,small_airport,-4.7403,145.9515,280,,PG130513,Karkar Rural LLG,PG1305,Sumkar District,PG13,Madang Province
+DBP,Debepare Airport,small_airport,-6.308611111,141.9055556,360,Debepare,PG010105,Nomad Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+DER,Derim Airport,small_airport,-6.144722222,147.1072222,4850,Derim,PG120412,Deyamos Rural LLG,PG1204,Kabwum District,PG12,Morobe Province
+AYDW,Dewara Airstrip,small_airport,-8.3802,142.4475,25,Dewara,PG010313,Morehead Rural LLG,PG0103,South Fly District,PG01,Western Province
+AYDQ,Dimisisi Airstrip,small_airport,-8.6298,142.2162,166,Dimisisi,PG010313,Morehead Rural LLG,PG0103,South Fly District,PG01,Western Province
+AYDN,Dinangat Airport,small_airport,-6.1546,146.6772,5309,Dinangat,PG120414,Yus Rural LLG,PG1204,Kabwum District,PG12,Morobe Province
+DOS,Dios Airport,closed,-5.5609,154.9616,335,Dios,PG200101,Tinputz LLG,PG2001,North Bougainville District,PG20,Autonomous Region of Bougainville
+AYDD,Dobu Airstrip,small_airport,-6.6305,144.6383,3115,Dobu,PG100307,Karimui Rural LLG,PG1003,Karimui/Nomane District,PG10,Chimbu (Simbu) Province
+DDM,Dodoima Airport,small_airport,-8.177361111,147.8094444,75,,PG060207,Tamata Rural LLG,PG0602,Sohe District,PG06,Northern (Oro) Province
+PG-0064,Dodomona Airstrip,small_airport,-6.2437,142.6158,1910,Dodomona,PG010105,Nomad Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+AYDO,Doini Airport,small_airport,-10.7009,150.7218,31,Castori Islets,PG050208,Bwanabwana Rural LLG,PG0502,Samarai-Murua District,PG05,Milne Bay Province
+PG-0075,Dona Airstrip,closed,-7.8465,147.6518,65,Dona,PG120309,Morobe Rural LLG,PG1203,Huon District,PG12,Morobe Province
+DOO,Dorobisoro Airport,small_airport,-9.461855,147.920907,1767,Dorobisoro,PG030413,Rigo Inland Rural LLG,PG0304,Rigo District,PG03,Central Province
+DPU,Dumpu Airport,closed,-5.858,145.705,870,Dumpu,PG130616,Usino Rural LLG,PG1306,Usino Bundi District,PG13,Madang Province
+PG-0044,Duranmin Airstrip,small_airport,-4.973205,141.908161,3890,Duranmin,PG150310,Telefomin Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+AYDS,Dusin Airport,small_airport,-5.184135,144.411965,6300,Dusin,PG130317,Kovon LLG,PG1303,Middle Ramu District,PG13,Madang Province
+AYED,Edwaki Airport,small_airport,-3.883986,141.792234,190,Yellow River Mission,PG150308,Namea Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+EFG,Efogi Airport,small_airport,-9.153805556,147.6598056,3900,Efogi,PG030309,Koiari Rural LLG,PG0303,Kairuku - Hiri District,PG03,Central Province
+AYEM,Eleme Airstrip,small_airport,-4.8141,143.9103,233,Eleme,PG140209,Yuat Rural LLG,PG1402,Angoram District,PG14,East Sepik Province
+AYEL,Eliptamin Airport,small_airport,-5.0412,141.6779,4825,Eliptamin,PG150310,Telefomin Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+AYEU,Eloaua Airstrip,small_airport,-1.5601,149.6318,25,Eloaua Island,PG170101,Murat Rural LLG,PG1701,Kavieng District,PG17,New Ireland Province
+AYEB,Embessa Airport,small_airport,-9.447,148.7628,131,Embessa,PG060109,Safia Rural LLG,PG0601,Ijivitari District,PG06,Northern (Oro) Province
+PG-0006,Emirau Airport,small_airport,-1.653949991,149.9757667,172,Emirau Island,PG170101,Murat Rural LLG,PG1701,Kavieng District,PG17,New Ireland Province
+AYEO,Emo River Airstrip,small_airport,-9.1234,148.0415,2240,Emo Mission,PG060205,Kokoda Rural LLG,PG0602,Sohe District,PG06,Northern (Oro) Province
+AYEN,Engati Airstrip,small_airport,-6.9179,146.1053,3715,Engati,PG120721,Kome Rural LLG,PG1207,Menyamya District,PG12,Morobe Province
+PG-0007,Erave Airport,small_airport,-6.606463154,143.9002132,3650,Erave,PG070308,Erave Rural LLG,PG0703,Kagua/Erave District,PG07,Southern Highlands Province
+AYER,Erume Airport,small_airport,-8.2538,146.9747,6690,Erume,PG030205,Tapini Rural LLG,PG0302,Goilala District,PG03,Central Province
+PG-0008,Esa'ala Airport,small_airport,-9.874327023,150.9542084,10,Esa'ala,PG050415,Dobu Rural LLG,PG0504,Esa'ala District,PG05,Milne Bay Province
+FNE,Fane Airport,small_airport,-8.549277778,147.0858333,4500,Fane Mission,PG030206,Woitape Rural LLG,PG0302,Goilala District,PG03,Central Province
+AYFS,Fas Airstrip,small_airport,-3.1983,141.472,1219,Fugari,PG150416,Walsa Rural LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+AYFE,Feramin Airport,small_airport,-5.208,141.6988,4655,Feramin,PG150310,Telefomin Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+FIN,Finschhafen Airport,small_airport,-6.621750109,147.85405,60,Buki,PG120233,Finschafen Urban LLG,PG1202,Finschafen District,PG12,Morobe Province
+DGG,Fishermans Airfield,closed,-9.5128,147.0505,24,Daugo Island,PG040101,National Capital District,PG0401,National Capital District,PG04,National Capital District
+PG-0065,Fiyak Airstrip,small_airport,-4.6771,141.5666,347,Fiyak,PG150310,Telefomin Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+AYFO,Fogomaiu Airstrip,small_airport,-6.5096,143.0794,737,Fogomaiu,PG070723,Mt Bosavi Rural LLG,PG0707,Nipa/Kutubu District,PG07,Southern Highlands Province
+AYFK,Foroko Airstrip,small_airport,-5.3283,144.8944,412,Foroko,PG130619,Gama  Rural LLG,PG1306,Usino Bundi District,PG13,Madang Province
+AYFR,Frieda River Airport,small_airport,-4.610468,141.960138,217,Frieda River,PG140104,Tunap/Hustein LLG,PG1401,Ambunti/Drekikier District,PG14,East Sepik Province
+PG-0066,Fugwa Airstrip,small_airport,-5.7169,142.6968,6100,Koroba,PG210516,North Koroba Rural LLG,PG2105,Koroba/Kopiago District,PG21,Hela Province
+FUB,Fulleborn Airport,small_airport,-6.1518,150.6264,36,Fulleborn,PG190101,Gasmata Rural LLG,PG1901,Kandrian/Gloucester District,PG19,West New Britain Province
+AYFU,Fuma Airport,small_airport,-6.3933,142.4408,466,Fuma,PG010105,Nomad Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+PG-0009,Garaina Airport,small_airport,-7.875625027,147.1412659,2497,Garaina,PG120102,Waria Rural LLG,PG1201,Bulolo District,PG12,Morobe Province
+AYGG,Garasa Airport,small_airport,-7.980713,147.213461,2539,Au,PG120102,Waria Rural LLG,PG1201,Bulolo District,PG12,Morobe Province
+GRH,Garuahi Airport,closed,-10.225149,150.487667,50,Garuahi,PG050104,Maramatana Rural LLG,PG0501,Alotau District,PG05,Milne Bay Province
+PG-GMI,Gasmata Island Airport,small_airport,-6.271110058,150.3309937,23,Gasmata Island,PG190101,Gasmata Rural LLG,PG1901,Kandrian/Gloucester District,PG19,West New Britain Province
+AYGS,Gasuke Airport,small_airport,-6.1028,141.7393,157,Gasuke,PG010206,Kiunga Rural LLG,PG0102,North Fly District,PG01,Western Province
+AYGQ,Gawa Airstrip,small_airport,-5.259,142.233,6500,Gawa,PG150309,Oksapmin Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+AYGE,Geigorobi Airstrip,small_airport,-4.1055,143.3056,74,Geigorobi,PG140519,Burui/Kunai Rural LLG,PG1405,Wosera Gawi District,PG14,East Sepik Province
+AYGM,Gema Airstrip,small_airport,-6.8032,145.7756,1675,Gema,PG110609,Yelia Rural LLG,PG1106,Obura/Wonenara District,PG11,Eastern Highlands Province
+GEW,Gewoia Airport,small_airport,-9.2263,148.4949,340,Gewoia,PG060103,Afore Rural LLG,PG0601,Ijivitari District,PG06,Northern (Oro) Province
+AYGD,Gimi Airstrip,small_airport,-6.6482,145.4003,5096,Amusa,PG110722,West Okapa Rural LLG,PG1107,Okapa District,PG11,Eastern Highlands Province
+PG-0067,Giramben Airstrip,small_airport,-5.7835,144.5568,5128,Giramben,PG220611,North Waghi Rural LLG,PG2206,North Waghi District,PG22,Jiwaka Province
+AYGR,Girua Airport,medium_airport,-8.80453968,148.3090057,311,Popondetta,PG060104,Popondetta Urban LLG,PG0601,Ijivitari District,PG06,Northern (Oro) Province
+GWN,Gnarowein Airport,closed,-6.555,146.248,525,Gnarowein,PG120617,Onga/Waffa Rural LLG,PG1206,Markham District,PG12,Morobe Province
+PG-0010,Gobe Airport,small_airport,-6.8782,143.7219,194,Gobe,PG020210,West Kikori Rural LLG,PG0202,Kikori District,PG02,Gulf Province
+AYGO,Gokto Airstrip,small_airport,-4.9136,144.49,259,Gokto,PG130307,Arabaka Rural LLG,PG1303,Middle Ramu District,PG13,Madang Province
+GOC,Gora Airstrip,small_airport,-9.0021,148.2364,2497,Gora,PG060103,Afore Rural LLG,PG0601,Ijivitari District,PG06,Northern (Oro) Province
+AYGA,Goroka Airport,medium_airport,-6.081689835,145.3919983,5282,Goronka,PG110203,Goroka Urban LLG,PG1102,Goroka District,PG11,Eastern Highlands Province
+PG-GVI,Green River Airport,small_airport,-3.902242899,141.170517,281,Green River,PG150414,Green River Rural LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+AYGF,Guari Airport,small_airport,-8.1286,146.8722,6450,Guari,PG030204,Guari Rural LLG,PG0302,Goilala District,PG03,Central Province
+GAZ,Guasopa Airport,small_airport,-9.225918,152.944352,10,Woodlark (Muyua) Island,PG050211,Murua Rural LLG,PG0502,Samarai-Murua District,PG05,Milne Bay Province
+AYGY,Guavi Airstrip,small_airport,-6.87,142.7537,303,Guavi,PG010102,Bamu Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+PG-0043,Gubam Airstrip,small_airport,-8.608765,141.919638,120,Gubam,PG010313,Morehead Rural LLG,PG0103,South Fly District,PG01,Western Province
+PG-0042,Gubil Airstrip,small_airport,-4.883308,141.525381,2200,Bufripmin/Usareimin,PG150310,Telefomin Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+AYGH,Guhu Airstrip,small_airport,-5.6957,146.1116,3,Guhu,PG130412,Rai Coast Rural LLG,PG1304,Rai Coast District,PG13,Madang Province
+GLP,Gulgubip Airport,small_airport,-5.2808,141.5411,4900,Gulgubip,PG010209,Olsobip Rural LLG,PG0102,North Fly District,PG01,Western Province
+GUE,Guriaso (Keraso) Airport,small_airport,-3.583167,141.5895,400,Guriaso,PG150412,Amanab Rural LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+AYGN,Gurney Airport,medium_airport,-10.3114996,150.3339996,88,Gurney,PG050105,Huhu Rural LLG,PG0501,Alotau District,PG05,Milne Bay Province
+AYGP,Gusap Airport,small_airport,-6.053196,145.959047,1504,Gusap,PG120618,Umi/Atzera Rural LLG,PG1206,Markham District,PG12,Morobe Province
+AYGW,Guwasa Airport,small_airport,-6.465838,145.083968,4800,Guwasa,PG110507,Unavi Rural LLG,PG1105,Lufa District,PG11,Eastern Highlands Province
+AYHB,Habi Airport,small_airport,-6.32,142.4893,993,Habi,PG010105,Nomad Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+AYHN,Habina Airstrip,small_airport,-6.6671,146,6200,Habina,PG110608,Lamari Rural LLG,PG1106,Obura/Wonenara District,PG11,Eastern Highlands Province
+HEO,Haelogo Airport,small_airport,-9.13658,147.598434,3217,Haelogo,PG030309,Koiari Rural LLG,PG0303,Kairuku - Hiri District,PG03,Central Province
+AYHW,Haewenai Airstrip,small_airport,-5.7219,141.3205,220,Haewenai,PG010208,Ningerum Rural LLG,PG0102,North Fly District,PG01,Western Province
+AYHA,Haia Airport,small_airport,-6.707421,144.997398,2434,,PG100307,Karimui Rural LLG,PG1003,Karimui/Nomane District,PG10,Chimbu (Simbu) Province
+AYHO,Haivaro Airport,small_airport,-6.9406,143.059,180,Haivaro,PG020210,West Kikori Rural LLG,PG0202,Kikori District,PG02,Gulf Province
+HAZ,Hatzfeldhaven Airport,small_airport,-4.4033,145.2056,26,Hatzfeldhaven,PG130101,Almami Rural LLG,PG1301,Bogia District,PG13,Madang Province
+AYHQ,Hauna Airstrip,small_airport,-4.2994,142.2305,73,Hauna,PG140101,Ambunti Rural LLG,PG1401,Ambunti/Drekikier District,PG14,East Sepik Province
+HWA,Hawabango Airport,small_airport,-7.392994,146.003487,4563,Hawabango,PG020103,Kaintiba Rural LLG,PG0201,Kerema District,PG02,Gulf Province
+PG-HYF,Hayfields Airport,small_airport,-3.69838,143.057902,466,Bainyik,PG140312,Maprik/Wora Rural LLG,PG1403,Maprik District,PG14,East Sepik Province
+AYHE,Heiweni Airport,small_airport,-7.4223,146.4276,3480,Heiweni,PG120730,Kapao Rural LLG,PG1207,Menyamya District,PG12,Morobe Province
+AYHX,Herowena Airstrip,small_airport,-6.6229,145.1972,4695,Herowana,PG110507,Unavi Rural LLG,PG1105,Lufa District,PG11,Eastern Highlands Province
+AYHL,Hesalibi Airstrip,small_airport,-6.6,142.3502,305,Hesalibi,PG010105,Nomad Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+AYHJ,Hewa Airstrip,small_airport,-5.1914,142.9595,5000,Hewa,PG080308,Paiela/Hewa Rural LLG,PG0803,Lagaip/Pogera District,PG08,Enga Province
+AYHT,Hotmin Airstrip,small_airport,-4.5845,141.5742,196,Hotmin Mission,PG140104,Tunap/Hustein LLG,PG1401,Ambunti/Drekikier District,PG14,East Sepik Province
+AYHY,Huya Airstrip,small_airport,-6.2734,142.7061,2611,Huya,PG070723,Mt Bosavi Rural LLG,PG0707,Nipa/Kutubu District,PG07,Southern Highlands Province
+AYIU,Ialibu Airport,small_airport,-6.2782,143.9944,6736,Ialibu,PG070102,Ialibu Urban LLG,PG0701,Ialibu/Pangia District,PG07,Southern Highlands Province
+IMA,Iamalele Airport,small_airport,-9.5107,150.5246,40,"Iamalele, Fergusson Island",PG050414,West Ferguson Rural LLG,PG0504,Esa'ala District,PG05,Milne Bay Province
+AYIB,Ibil Airstrip,small_airport,-4.6828,141.0316,870,Ibil,PG150311,Yapsie Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+IBI,Iboki Airport,small_airport,-5.5536,149.19,13,Iboki,PG190105,Kove/Kaliai Rural LLG,PG1901,Kandrian/Gloucester District,PG19,West New Britain Province
+PG-0068,Idam Airstrip,small_airport,-4.1432,141.2592,211,Idam,PG150414,Green River Rural LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+PG-IHU,Ihu Airport,small_airport,-7.89756012,145.3959961,70,Ihu,PG020209,Ihu Rural LLG,PG0202,Kikori District,PG02,Gulf Province
+ILX,Ileg Airport,closed,-5.4917,145.8022,60,Ileg,PG130410,Astrolabe Bay Rural LLG,PG1304,Rai Coast District,PG13,Madang Province
+AYII,Imane Airport,small_airport,-6.7524,146.1072,3860,Imane,PG120617,Onga/Waffa Rural LLG,PG1206,Markham District,PG12,Morobe Province
+AYIO,Imonda Airport,small_airport,-3.328,141.1573,990,Imonda,PG150416,Walsa Rural LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+AYIR,Inaru Airstrip,small_airport,-4.6316,142.8913,178,Inaru,PG140206,Karawari Rural LLG,PG1402,Angoram District,PG14,East Sepik Province
+IDN,Indagen Airport,small_airport,-6.22663,147.244,5788,Indagen,PG120431,Komba Rural LLG,PG1204,Kabwum District,PG12,Morobe Province
+IUS,Inus Airport,closed,-5.7568,155.1498,50,Inus,PG200207,Wakunai LLG,PG2002,Central Bougainville District,PG20,Autonomous Region of Bougainville
+IOK,Iokea Airport,small_airport,-8.401,146.277,39,Iokea,PG020102,East Kerema Rural LLG,PG0201,Kerema District,PG02,Gulf Province
+IOP,Ioma Airport,small_airport,-8.3614,147.84,95,Ioma,PG060207,Tamata Rural LLG,PG0602,Sohe District,PG06,Northern (Oro) Province
+AYIP,Iropena Airstrip,small_airport,-5.0333,143.87084,5190,Iropena,PG080205,Wapi-Yengis Rural LLG,PG0802,Kompiam District,PG08,Enga Province
+AYIS,Isan Airstrip,small_airport,-5.9781,146.61975,6955,Isan,PG120414,Yus Rural LLG,PG1204,Kabwum District,PG12,Morobe Province
+AYIT,Iteri Airstrip,small_airport,-4.2418,141.5234,242,Iteri,PG140104,Tunap/Hustein LLG,PG1401,Ambunti/Drekikier District,PG14,East Sepik Province
+ITK,Itokama Airport,small_airport,-9.201527,148.264261,2563,Itokama,PG060103,Afore Rural LLG,PG0601,Ijivitari District,PG06,Northern (Oro) Province
+PG-JAQ,Jacquinot Bay Airport,small_airport,-5.652500153,151.5070038,136,Jacquinot Bay,PG180314,West Pomio/Mamusi Rural LLG,PG1803,Pomio District,PG18,East New Britain Province
+PG-0029,Jangit Airstrip,small_airport,-4.336666667,144.4806944,30,,PG140208,Marienberg Rural LLG,PG1402,Angoram District,PG14,East Sepik Province
+JOP,Josephstaal Airport,small_airport,-4.747083333,145.0070833,250,Josephstaal,PG130308,Josephstaal Rural LLG,PG1303,Middle Ramu District,PG13,Madang Province
+PG-0030,Junkaral Airstrip,small_airport,-5.423166667,145.0100278,485,Junkaral,PG130615,Bundi Rural LLG,PG1306,Usino Bundi District,PG13,Madang Province
+PG-0031,Kabori Airstrip,small_airport,-3.321611111,141.8584167,2090,Kabori,PG150104,West Wapei Rural LLG,PG1501,Aitape/Lumi District,PG15,West Sepik (Sandaun) Province
+KBM,Kabwum,small_airport,-6.155472222,147.1914722,4450,,PG120435,Selepet Rural LLG,PG1204,Kabwum District,PG12,Morobe Province
+PG-0039,Kafa Airstrip,small_airport,-6.586888889,143.515,1850,Kafa,PG070722,Lake Kutubu Rural LLG,PG0707,Nipa/Kutubu District,PG07,Southern Highlands Province
+AYKL,Kafle Airstrip,small_airport,-3.75,142.59,850,Kafle,PG150205,Mawase Rural LLG,PG1502,Nuku District,PG15,West Sepik (Sandaun) Province
+KGW,Kagi Airport,small_airport,-9.135916667,147.6694444,4200,Kagi,PG030309,Koiari Rural LLG,PG0303,Kairuku - Hiri District,PG03,Central Province
+AGK,Kagua Airport,small_airport,-6.396388889,143.8536111,5350,Kagua,PG070309,Kagua Rural LLG,PG0703,Kagua/Erave District,PG07,Southern Highlands Province
+KIA,Kaiapit Airport,closed,-6.275,146.27,1030,Kaiapit,PG120618,Umi/Atzera Rural LLG,PG1206,Markham District,PG12,Morobe Province
+PG-0040,Kaibo Airstrip,small_airport,-6.371111111,143.1725,2880,,PG070722,Lake Kutubu Rural LLG,PG0707,Nipa/Kutubu District,PG07,Southern Highlands Province
+KZF,Kaintiba Airport,small_airport,-7.50025,146.0338333,2050,Kaintiba,PG020103,Kaintiba Rural LLG,PG0201,Kerema District,PG02,Gulf Province
+PG-0041,Kairik Airstrip,small_airport,-5.44625,143.1698889,7340,Porgera Mine,PG080309,Porgera Rural LLG,PG0803,Lagaip/Pogera District,PG08,Enga Province
+AYKZ,Kairiru Airstrip,small_airport,-3.3687,143.5546,60,Kairiru Island,PG140416,Wewak Islands Rural LLG,PG1404,Wewak District,PG14,East Sepik Province
+RKU,Kairuku Airport,small_airport,-8.817000054,146.5243833,45,Yule Island,PG030308,Kairuku Rural LLG,PG0303,Kairuku - Hiri District,PG03,Central Province
+AYUD,Kais-Udave Helicopter landing site,heliport,-8.7819,147.2785,3300,,PG030206,Woitape Rural LLG,PG0302,Goilala District,PG03,Central Province
+KOR,Kakoro(Koroko) Airstrip,small_airport,-7.834666667,146.5335,230,Kakoro,PG020106,Lakekamu-Tauri Rural LLG,PG0201,Kerema District,PG02,Gulf Province
+KDQ,Kamberatoro Airport,small_airport,-3.600556,141.051667,1350,Kamberatoro Mission,PG150412,Amanab Rural LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+KMF,Kamina Airport,small_airport,-7.64925,145.9569444,2157,Hoieti,PG020105,Kotidanga Rural LLG,PG0201,Kerema District,PG02,Gulf Province
+KJU,Kamiraba Airport,closed,-3.1995,151.9077,40,Kamiraba,PG170206,Sentral Niu Ailan Rural LLG,PG1702,Namatanai District,PG17,New Ireland Province
+KAQ,Kamulai Airport,small_airport,-8.150694444,146.834,5800,Kamulai Mission,PG030204,Guari Rural LLG,PG0302,Goilala District,PG03,Central Province
+PG-KUY,Kamusi Airport,small_airport,-7.420347,143.121811,97,Kamusi,PG010102,Bamu Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+KEX,Kanabea Airport,small_airport,-7.538888889,145.905,4288,Kanabea,PG020105,Kotidanga Rural LLG,PG0201,Kerema District,PG02,Gulf Province
+AYKJ,Kanainj Airport,small_airport,-5.2903,144.7072,4064,Kanainj,PG130619,Gama  Rural LLG,PG1306,Usino Bundi District,PG13,Madang Province
+KDP,Kandep Airport,small_airport,-5.840611111,143.5072222,7710,Kandep,PG080101,Kandep Rural LLG,PG0801,Kandep District,PG08,Enga Province
+PG-KDR,Kandrian Airport,small_airport,-6.19217,149.54783,280,Kandrian,PG190103,Kandrian Coastal Rural LLG,PG1901,Kandrian/Gloucester District,PG19,West New Britain Province
+AYNT,Kantobo Airstrip,small_airport,-6.7227,143.5636,1385,Kantobo,PG070722,Lake Kutubu Rural LLG,PG0707,Nipa/Kutubu District,PG07,Southern Highlands Province
+PG-0091,Kapaimeri Airstrip,small_airport,-4.2028,143.2767,30,Kapaimeri Mission,PG140520,Gawi Rural LLG,PG1405,Wosera Gawi District,PG14,East Sepik Province
+KPL,Kapal Airport,small_airport,-8.630184,142.823756,170,Kapal,PG010314,Oriomo-Bituri Rural LLG,PG0103,South Fly District,PG01,Western Province
+AYPI,Kapi Airstrip,small_airport,-6.371,144.6839,3408,Kapi,PG100307,Karimui Rural LLG,PG1003,Karimui/Nomane District,PG10,Chimbu (Simbu) Province
+KAK,Kar Airport,small_airport,-6.2452,143.5516,4965,Kar,PG070726,Poroma Rural LLG,PG0707,Nipa/Kutubu District,PG07,Southern Highlands Province
+AYKR,Kar Kar Airport,small_airport,-4.557,145.9404,130,Kar Kar Island,PG130513,Karkar Rural LLG,PG1305,Sumkar District,PG13,Madang Province
+KAF,Karato Airport,small_airport,-6.2655,155.3052,109,Karato,PG200208,Arawa LLG,PG2002,Central Bougainville District,PG20,Autonomous Region of Bougainville
+KRJ,Karawari Airstrip,small_airport,-4.596666667,143.5225,70,Amboin,PG140206,Karawari Rural LLG,PG1402,Angoram District,PG14,East Sepik Province
+AYRI,Karimui Airport,small_airport,-6.4921,144.823,3640,Karimui,PG100307,Karimui Rural LLG,PG1003,Karimui/Nomane District,PG10,Chimbu (Simbu) Province
+PG-KXR,Karoola Airport,closed,-5.1431,154.5928,52,Buka Island,PG200104,Buka LLG,PG2001,North Bougainville District,PG20,Autonomous Region of Bougainville
+AYNM,Kasonombe Airport,small_airport,-6.3819,146.9859,5800,Kasonombe,PG120824,Nabak Rural LLG,PG1208,Nawae District,PG12,Morobe Province
+PG-0085,Kauaia Airstrip,closed,-3.758,142.9777,375,Kauaia,PG140521,North Wosera Rural LLG,PG1405,Wosera Gawi District,PG14,East Sepik Province
+PG-0089,Kaup Airstrip,closed,-3.8033,143.987,100,Kaup Villages,PG140208,Marienberg Rural LLG,PG1402,Angoram District,PG14,East Sepik Province
+AYKV,Kavieng Airport,medium_airport,-2.579400063,150.8079987,7,Kavieng,PG170104,Kavieng Urban LLG,PG1701,Kavieng District,PG17,New Ireland Province
+PG-KWO,Kawito Airport,small_airport,-7.977006912,142.8235779,72,Kawito,PG010103,Gogodala Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+KEG,Keglsugl Airport,small_airport,-5.832777778,145.0972222,8400,Denglagu Mission,PG100514,Mitnande Rural LLG,PG1005,Kundiawa/Gembogl District,PG10,Chimbu (Simbu) Province
+PG-0069,Kelabo Airstrip,small_airport,-5.5659,142.5666,5562,Kelabo,PG210516,North Koroba Rural LLG,PG2105,Koroba/Kopiago District,PG21,Hela Province
+KNL,Kelanoa Airport,closed,-6.01,147.49,40,Kelanoa,PG120926,Sialum Rural LLG,PG1209,Tawae/Siassi District,PG12,Morobe Province
+KRU,Kerau Airport,small_airport,-8.271612,147.071899,7360,Gunim,PG030205,Tapini Rural LLG,PG0302,Goilala District,PG03,Central Province
+AYKM,Kerema Airport,medium_airport,-7.963610172,145.7709961,10,Kerema,PG020104,Kerema Urban LLG,PG0201,Kerema District,PG02,Gulf Province
+PG-0063,Kerevat Airfield,closed,-4.3092,152.0122,50,,PG180101,Central Gazelle Rural LLG,PG1801,Gazelle District,PG18,East New Britain Province
+PG-0051,Kibeni Airstrip,small_airport,-7.4846,143.8224,99,Kibeni,PG020210,West Kikori Rural LLG,PG0202,Kikori District,PG02,Gulf Province
+PG-0048,Kibuli Airstrip,small_airport,-9.006528,142.698056,54,Kibuli,PG010314,Oriomo-Bituri Rural LLG,PG0103,South Fly District,PG01,Western Province
+AYKT,Kieta Airport,small_airport,-6.305416667,155.7281389,20,Kieta,PG200208,Arawa LLG,PG2002,Central Bougainville District,PG20,Autonomous Region of Bougainville
+KIZ,Kikinonda Airport,closed,-8.5284,147.9309,95,Kikinonda,PG060207,Tamata Rural LLG,PG0602,Sohe District,PG06,Northern (Oro) Province
+PG-0052,Kilifas Airstrip,small_airport,-3.2148,141.3642,1095,Kilifas,PG150416,Walsa Rural LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+AYHK,Kimbe Airport,medium_airport,-5.462170124,150.4049988,66,Hoskins,PG190208,Hoskins Rural LLG,PG1902,Talasea District,PG19,West New Britain Province
+KIQ,Kira Airport,small_airport,-8.065111111,147.3320278,1700,Kira,PG060208,Kira Rural LLG,PG0602,Sohe District,PG06,Northern (Oro) Province
+AYRT,Kirinbit Airstrip,small_airport,-4.2839,143.1512,60,Kirinbit,PG140520,Gawi Rural LLG,PG1405,Wosera Gawi District,PG14,East Sepik Province
+PG-0049,Kiriwo Airstrip,small_airport,-8.437,141.5142,69,Kiriwa,PG010313,Morehead Rural LLG,PG0103,South Fly District,PG01,Western Province
+KSG,Kisengam Airport,closed,-6.362,146.71,3700,Kisenden,PG120825,Wain-Erap Rural LLG,PG1208,Nawae District,PG12,Morobe Province
+KVE,Kitava Airport,small_airport,-8.6285,151.327,194,Kitava Island,PG050312,Kiriwina Rural LLG,PG0503,Kiriwina-Goodenough District,PG05,Milne Bay Province
+AYKI,Kiunga Airport,small_airport,-6.125710011,141.2819977,88,Kiunga,PG010207,Kiunga Urban LLG,PG0102,North Fly District,PG01,Western Province
+KWX,Kiwai Airport,closed,-8.6883,143.618,30,Kiwai Island,PG010312,Kiwai Rural LLG,PG0103,South Fly District,PG01,Western Province
+AYLH,Klauhau Airstrip,small_airport,-4.1305,142.2495,130,Klauhau,PG140101,Ambunti Rural LLG,PG1401,Ambunti/Drekikier District,PG14,East Sepik Province
+KMB,Koinambe Airport,small_airport,-5.4875,144.6069444,3000,Konambe,PG220406,Jimi Rural LLG,PG2204,Jimi District,PG22,Jiwaka Province
+PG-KKD,Kokoda Airport,small_airport,-8.884678841,147.730957,1240,Kokoda,PG060205,Kokoda Rural LLG,PG0602,Sohe District,PG06,Northern (Oro) Province
+KQL,Kol Airport,small_airport,-5.731166667,144.846,5350,Kol,PG220407,Kol Rural LLG,PG2204,Jimi District,PG22,Jiwaka Province
+AYOK,Komako Airport,small_airport,-7.3984,145.8827,3960,Komako,PG020105,Kotidanga Rural LLG,PG0201,Kerema District,PG02,Gulf Province
+AYOU,Kombaku Airstrip,small_airport,-5.3817,144.6355,5400,Kombaku,PG130619,Gama  Rural LLG,PG1306,Usino Bundi District,PG13,Madang Province
+PG-0088,Kombot Airstrip,closed,-3.486,142.704,2260,,PG140102,Dreikikier Rural LLG,PG1401,Ambunti/Drekikier District,PG14,East Sepik Province
+KOM,Komo-Manda Airport,small_airport,-6.0682,142.8598,5057,Komo,PG210412,Komo Rural LLG,PG2104,Komo/Magarima District,PG21,Hela Province
+AYAQ,Kompiam Airport,small_airport,-5.381666667,143.9247222,5100,,PG080204,Kompiam Rural LLG,PG0802,Kompiam District,PG08,Enga Province
+AYDL,Kondobol Airport,small_airport,-8.5336,142.5049,132,Kondobol,PG010313,Morehead Rural LLG,PG0103,South Fly District,PG01,Western Province
+AYOE,Konge Airport,small_airport,-6.2239,147.2152,5900,Konge,PG120431,Komba Rural LLG,PG1204,Kabwum District,PG12,Morobe Province
+AYKG,Kopiago Airport,small_airport,-5.3883,142.4977,4445,Kopiago,PG210515,Lake Kopiago Rural LLG,PG2105,Koroba/Kopiago District,PG21,Hela Province
+AYOZ,Kora Airstrip,small_airport,-6.4304,145.0931,5745,Kora,PG110507,Unavi Rural LLG,PG1105,Lufa District,PG11,Eastern Highlands Province
+AYOW,Koroba Airport,small_airport,-5.6952,142.7441,5638,Koroba,PG210517,South Koroba Rural LLG,PG2105,Koroba/Kopiago District,PG21,Hela Province
+AYOS,Kosimbi Airstrip,small_airport,-3.9522,143.1767,149,Kosimbi Mission,PG140519,Burui/Kunai Rural LLG,PG1405,Wosera Gawi District,PG14,East Sepik Province
+KSP,Kosipe Airport,small_airport,-8.450716,147.209195,6350,Kosipe Mission,PG030206,Woitape Rural LLG,PG0302,Goilala District,PG03,Central Province
+AYKN,Kubuna Airstrip,small_airport,-8.6917,146.7566,200,Kubuna Mission,PG030310,Mekeo Kuni Rural LLG,PG0303,Kairuku - Hiri District,PG03,Central Province
+AYUQ,Kumbwareta Airstrip,small_airport,-5.5078,144.1171,4067,Kumbwareta,PG090509,Baiyer Rural LLG,PG0905,Mul/Baiyer District,PG09,Western Highlands Province
+AYIM,Kungim Airport,small_airport,-5.671,141.03,349,Kungim,PG010208,Ningerum Rural LLG,PG0102,North Fly District,PG01,Western Province
+KTK,Kunua Airport,closed,-5.7828,154.74,60,Kunua,PG200102,Kunua LLG,PG2001,North Bougainville District,PG20,Autonomous Region of Bougainville
+KUP,Kupiano Airport,small_airport,-10.0736,148.218,90,Kupiano,PG030102,Aroma Rural LLG,PG0301,Abau District,PG03,Central Province
+AYKU,Kuri Airport,small_airport,-7.135083,143.276111,35,Kuri,PG020210,West Kikori Rural LLG,PG0202,Kikori District,PG02,Gulf Province
+KWV,Kurwina Airport,closed,-5.965,155.3604,65,Kurwina,PG200207,Wakunai LLG,PG2002,Central Bougainville District,PG20,Autonomous Region of Bougainville
+KUX,Kuyol Airport,small_airport,-5.372361111,141.6238889,3290,,PG010209,Olsobip Rural LLG,PG0102,North Fly District,PG01,Western Province
+AYFW,Kwieftim Airstrip,small_airport,-3.6005,141.7674,515,Kwieftim,PG150102,East Wapei Rural LLG,PG1501,Aitape/Lumi District,PG15,West Sepik (Sandaun) Province
+AYOA,Kwomtari Airstrip,small_airport,-3.598,141.3614,366,Kwomtari,PG150412,Amanab Rural LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+AYLB,Lab Lab Airport,small_airport,-5.7204,148.0566,160,Lab Lab Mission,PG120927,Siassi Rural LLG,PG1209,Tawae/Siassi District,PG12,Morobe Province
+AYLA,Lae Airfield,closed,-6.731666,146.996368,50,Lae,PG120516,Lae Urban LLG,PG1205,Lae District,PG12,Morobe Province
+AYLQ,Lagoon Airstrip,small_airport,-8.8186,143.1317,100,Lagoon,PG010314,Oriomo-Bituri Rural LLG,PG0103,South Fly District,PG01,Western Province
+LGM,Laiagam Airport,closed,-5.4923,143.488,7267,Laiagam,PG080306,Lagaip Rural LLG,PG0803,Lagaip/Pogera District,PG08,Enga Province
+AYLC,Lake Campbell Airstrip,small_airport,-6.7486,142.6037,585,Lake Campbell,PG010105,Nomad Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+PG-LMY,Lake Murray Airport,small_airport,-7.00992012,141.4940033,52,Lake Murray,PG010104,Lake Murray Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+AYRB,Lakunai Airfield,closed,-4.223,152.185,30,Rabaul,PG180417,Rabaul Urban LLG,PG1804,Rabaul District,PG18,East New Britain Province
+LNM,Langimar Airport,small_airport,-7.223138889,146.2270833,5127,,PG120730,Kapao Rural LLG,PG1207,Menyamya District,PG12,Morobe Province
+LHP,Lehu Airport,closed,-6.527493,155.712442,1770,Lehu,PG200309,Buin LLG,PG2003,South Bougainville District,PG20,Autonomous Region of Bougainville
+LTF,Leitre Airport,small_airport,-2.8337,141.6257,32,Leitre,PG150413,Bewani/Wutung Onei Rural LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+AYLE,Lele Airstrip,small_airport,-5.2192,151.3938,1600,Leli,PG180310,Central/Inland Pomio LLG,PG1803,Pomio District,PG18,East New Britain Province
+LNC,Lengbati Airport,small_airport,-6.384611111,147.3686389,5750,,PG120206,Burum Kwat LLG,PG1202,Finschafen District,PG12,Morobe Province
+AYLP,Leron Plains Airport,small_airport,-6.3917,146.3434,680,Leron Plains,PG120618,Umi/Atzera Rural LLG,PG1206,Markham District,PG12,Morobe Province
+AYLS,Lese Airport,small_airport,-8.2799,146.2765,40,Lese,PG020102,East Kerema Rural LLG,PG0201,Kerema District,PG02,Gulf Province
+LNQ,Loani Airport,closed,-10.5815,150.5931,150,Loani,PG050208,Bwanabwana Rural LLG,PG0502,Samarai-Murua District,PG05,Milne Bay Province
+AYKY,Londolovit Airport,small_airport,-3.043610096,152.6289978,167,Londolovit,PG170209,Nimamar Rural LLG,PG1702,Namatanai District,PG17,New Ireland Province
+AYLX,Long Island Airport,small_airport,-5.3604,147.0177,116,Long Island,PG130412,Rai Coast Rural LLG,PG1304,Rai Coast District,PG13,Madang Province
+PG-0062,Lorengau Airfield,closed,-2.0201,147.2664,27,Lorengau,PG160106,Lorengau Urban LLG,PG1601,Manus District,PG16,Manus Province
+AYKA,Losuia Airport,small_airport,-8.505820274,151.0809937,27,Losuia,PG050312,Kiriwina Rural LLG,PG0503,Kiriwina-Goodenough District,PG05,Milne Bay Province
+PG-0084,Lou Island Airstrip,closed,-2.378,147.3627,150,Lou Island,PG160111,Balopa LLG,PG1601,Manus District,PG16,Manus Province
+AYLO,Lowai Airport,small_airport,-6.3344,146.6458,2900,Lowai,PG120825,Wain-Erap Rural LLG,PG1208,Nawae District,PG12,Morobe Province
+PG-LMI,Lumi Airport,small_airport,-3.476839511,142.0412922,1750,Lumi,PG150102,East Wapei Rural LLG,PG1501,Aitape/Lumi District,PG15,West Sepik (Sandaun) Province
+PG-0033,Lumusa Airstrip,small_airport,-5.527777778,144.0655556,4943,Lumusa,PG090510,Lumusa Rural LLG,PG0905,Mul/Baiyer District,PG09,Western Highlands Province
+AYMD,Madang Airport,medium_airport,-5.207079887,145.7890015,20,Madang,PG130205,Madang Urban LLG,PG1302,Madang District,PG13,Madang Province
+MPG,Makini Airport,small_airport,-6.532222222,147.6511667,2530,Makini,PG120208,Yabim Mape Rural LLG,PG1202,Finschafen District,PG12,Morobe Province
+MLQ,Malalaua Airport,small_airport,-8.071388889,146.1554722,20,Malalaua,PG020106,Lakekamu-Tauri Rural LLG,PG0201,Kerema District,PG02,Gulf Province
+MQO,Malam Airport,small_airport,-8.709166667,142.6497222,126,Malam,PG010313,Morehead Rural LLG,PG0103,South Fly District,PG01,Western Province
+PG-0034,Malamaunda Airstrip,small_airport,-4.919277778,143.1614167,2350,,PG140206,Karawari Rural LLG,PG1402,Angoram District,PG14,East Sepik Province
+MKN,Malekolon Airport,small_airport,-4.023430556,153.6572778,5,Babase Island,PG170208,Tanir Rural LLG,PG1702,Namatanai District,PG17,New Ireland Province
+MAP,Mamai Airport,small_airport,-10.29083333,149.5191667,90,Mamai,PG030101,Amazon Bay Rural LLG,PG0301,Abau District,PG03,Central Province
+AYMA,Manari Airport,small_airport,-9.1908,147.6219,2630,Manari,PG030309,Koiari Rural LLG,PG0303,Kairuku - Hiri District,PG03,Central Province
+MVI,Manetai Airport,closed,-6.12,155.39,170,Manetai,PG200208,Arawa LLG,PG2002,Central Bougainville District,PG20,Autonomous Region of Bougainville
+MGP,Manga Airport,small_airport,-4.147,153.0186,60,Manga Mission,PG170207,Konoagil Rural LLG,PG1702,Namatanai District,PG17,New Ireland Province
+AYNG,Manguna Airport,small_airport,-5.577778,151.792333,187,Manguna,PG180310,Central/Inland Pomio LLG,PG1803,Pomio District,PG18,East New Britain Province
+UUU,Manumu Airport,small_airport,-9.0746,147.5735,1800,Manumu,PG030309,Koiari Rural LLG,PG0303,Kairuku - Hiri District,PG03,Central Province
+PG-0076,Mapaio Airstrip,closed,-7.656,145.045,55,Mapaio Village,PG020207,Baimuru Rural LLG,PG0202,Kikori District,PG02,Gulf Province
+AYPO,Mapoda Airport,small_airport,-7.979,143.1694,45,Mapoda,PG010103,Gogodala Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+MPU,Mapua(Mabua) Airport,small_airport,-2.811388889,151.9911111,40,Tatau Island,PG170206,Sentral Niu Ailan Rural LLG,PG1702,Namatanai District,PG17,New Ireland Province
+AYRL,Maralina Airstrip,small_airport,-6.9015,146.3698,431,Maralina,PG120311,Wampar Rural LLG,PG1203,Huon District,PG12,Morobe Province
+AYRM,Maramuni Airport,small_airport,-5.13,143.4829,5160,Maramuni,PG080412,Maramuni Rural LLG,PG0804,Wabag District,PG08,Enga Province
+AYMW,Marawaka Airport,small_airport,-6.9736,145.8849,6050,Marawaka,PG110609,Yelia Rural LLG,PG1106,Obura/Wonenara District,PG11,Eastern Highlands Province
+MGG,Margarima Airport,closed,-5.979,143.3595,7291,Margarima,PG210431,Upper Wage LLG,PG2104,Komo/Magarima District,PG21,Hela Province
+MNP,Maron Island Airport,closed,-1.5504,145.0168,4,Hermit Islands,PG160102,Nigoherm LLG,PG1601,Manus District,PG16,Manus Province
+AYSX,Masa Airport,small_airport,-6.345,147.591,5900,Masa,PG120926,Sialum Rural LLG,PG1209,Tawae/Siassi District,PG12,Morobe Province
+PG-0083,Matkomnae Airstrip,small_airport,-5.817,141.1614,170,Matkomrae,PG010208,Ningerum Rural LLG,PG0102,North Fly District,PG01,Western Province
+AYRV,May River Airstrip,small_airport,-4.3615,141.785,107,May River,PG140104,Tunap/Hustein LLG,PG1401,Ambunti/Drekikier District,PG14,East Sepik Province
+AYEK,Membok Airstrip,small_airport,-6.4744,141.019,54,Membok,PG010206,Kiunga Rural LLG,PG0102,North Fly District,PG01,Western Province
+AYMN,Mendi Airport,medium_airport,-6.14774,143.656998,5680,Mendi,PG070620,Mendi Urban LLG,PG0706,Mendi/Munihu District,PG07,Southern Highlands Province
+AYEG,Mengina Airstrip,small_airport,-6.4836,144.986,4224,Mengina,PG100307,Karimui Rural LLG,PG1003,Karimui/Nomane District,PG10,Chimbu (Simbu) Province
+MYX,Menyamya Airport,small_airport,-7.211666667,146.0193611,3880,Menyamya,PG120721,Kome Rural LLG,PG1207,Menyamya District,PG12,Morobe Province
+AYES,Meselia Airport,small_airport,-6.1364,149.1183,180,Demgulu,PG190103,Kandrian Coastal Rural LLG,PG1901,Kandrian/Gloucester District,PG19,West New Britain Province
+AYEI,Milei Airstrip,small_airport,-9.0794,147.602,2160,Milei,PG030309,Koiari Rural LLG,PG0303,Kairuku - Hiri District,PG03,Central Province
+MXK,Mindik Airport,small_airport,-6.471666667,147.4411389,4200,Mindik,PG120206,Burum Kwat LLG,PG1202,Finschafen District,PG12,Morobe Province
+AYEY,Mirsey Airstrip,small_airport,-4.0621,142.6609,107,Mirsey,PG140101,Ambunti Rural LLG,PG1401,Ambunti/Drekikier District,PG14,East Sepik Province
+AYMS,Misima Island Airport,small_airport,-10.6892004,152.8379974,26,Misima Island,PG050209,Louisiade Rural LLG,PG0502,Samarai-Murua District,PG05,Milne Bay Province
+MPX,Miyanmin Airport,small_airport,-4.903055556,141.6208333,2500,Miyanmin,PG150310,Telefomin Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+AYOX,Moi Airstrip,small_airport,-4.1615,141.2478,240,Moi,PG150414,Green River Rural LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+AYMK,Mok Airport,small_airport,-5.730238,149.056583,1050,Mok,PG190105,Kove/Kaliai Rural LLG,PG1901,Kandrian/Gloucester District,PG19,West New Britain Province
+MJJ,Moki Airport,small_airport,-5.7181,145.2404,3030,Moki,PG130615,Bundi Rural LLG,PG1306,Usino Bundi District,PG13,Madang Province
+AYMO,Momote Airport,medium_airport,-2.06189,147.423996,12,Manus Island,PG160107,Los Negros LLG,PG1601,Manus District,PG16,Manus Province
+MHY,Morehead Airport,small_airport,-8.714111111,141.6444444,100,Morehead,PG010313,Morehead Rural LLG,PG0103,South Fly District,PG01,Western Province
+AYMR,Moro Airport,small_airport,-6.363329887,143.2380066,2740,Moro,PG070722,Lake Kutubu Rural LLG,PG0707,Nipa/Kutubu District,PG07,Southern Highlands Province
+AYML,Mougulu Airport,small_airport,-6.280859,142.420775,825,Mougulu,PG010105,Nomad Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+UAE,Mount Aue Airport,small_airport,-6.234166667,144.6647222,4250,,PG220102,South Waghi Rural LLG,PG2201,Anglimp/South Waghi District,PG22,Jiwaka Province
+AYRX,Mount Boregoro Helicopter Landing  Site,heliport,-9.8944,148.1069,898,Mount Boregoro,PG030413,Rigo Inland Rural LLG,PG0304,Rigo District,PG03,Central Province
+AYMH,Mount Hagen Kagamuga Airport,medium_airport,-5.826789856,144.2960052,5388,Mount Hagen,PG090304,Mt Hagen Rural LLG,PG0903,Mt Hagen District,PG09,Western Highlands Province
+AYYT,Mount Tauwa Airstrip,small_airport,-6.7293,144.303,3700,Mount Tauwa,PG070308,Erave Rural LLG,PG0703,Kagua/Erave District,PG07,Southern Highlands Province
+AYYU,Mui Airstrip,small_airport,-4.7912,144.3113,132,Mui,PG130307,Arabaka Rural LLG,PG1303,Middle Ramu District,PG13,Madang Province
+LNF,Munbil Airport,small_airport,-4.855941,141.220165,3126,,PG150311,Yapsie Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+AYDK,Munduku Airport,small_airport,-4.6204,143.4516,100,Munduku,PG140206,Karawari Rural LLG,PG1402,Angoram District,PG14,East Sepik Province
+PG-0082,Muschu Airstrip,closed,-3.4097,143.58,242,Muschu Island,PG140416,Wewak Islands Rural LLG,PG1404,Wewak District,PG14,East Sepik Province
+AYUL,Musula Airstrip,small_airport,-6.8385,142.8983,740,Musula,PG010102,Bamu Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+NDN,Nadunumu Airport,small_airport,-9.143555556,147.68425,5100,Nadunumu,PG030309,Koiari Rural LLG,PG0303,Kairuku - Hiri District,PG03,Central Province
+AYNZ,Nadzab Airport,medium_airport,-6.569803,146.725977,239,Lae,PG120311,Wampar Rural LLG,PG1203,Huon District,PG12,Morobe Province
+ATN,Namatanai Airport,small_airport,-3.6695,152.438,150,Namatanai,PG170205,Namatanai Rural LLG,PG1702,Namatanai District,PG17,New Ireland Province
+AYNY,Nambaiyufa Airport,small_airport,-6.2412,145.2424,5550,Nambaiyufa,PG100103,Siane Rural LLG,PG1001,Chuave District,PG10,Chimbu (Simbu) Province
+NDI,Namudi Airport,small_airport,-9.47375,148.3294167,1044,Namudi,PG060109,Safia Rural LLG,PG0601,Ijivitari District,PG06,Northern (Oro) Province
+AYNA,Nankina Airport,small_airport,-5.837,146.4533,5800,Gwarawon,PG130418,Rai Coast Rural LLG,PG1304,Rai Coast District,PG13,Madang Province
+NOO,Naoro Airport,small_airport,-9.254455,147.621352,2372,Naoro Vilage,PG030309,Koiari Rural LLG,PG0303,Kairuku - Hiri District,PG03,Central Province
+AYNE,Negarbo(Negabo) Airport,small_airport,-6.567778,144.703058,4500,Negarbo,PG100307,Karimui Rural LLG,PG1003,Karimui/Nomane District,PG10,Chimbu (Simbu) Province
+NPG,Nipa Airport,small_airport,-6.1454,143.4531,5765,Nipa,PG070725,Nipa Rural LLG,PG0707,Nipa/Kutubu District,PG07,Southern Highlands Province
+PG-IIS,Nissan Island Airport,small_airport,-4.499720097,154.2259979,52,Nissan Island,PG200105,Nissan LLG,PG2001,North Bougainville District,PG20,Autonomous Region of Bougainville
+NOM,Nomad River Airport,small_airport,-6.294,142.2341667,305,Nomad River,PG010105,Nomad Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+AYNO,Nomane Airport,small_airport,-6.32183,145.070667,6032,Namane,PG100308,Nomane Rural LLG,PG1003,Karimui/Nomane District,PG10,Chimbu (Simbu) Province
+AYRN,Norambi Airstrip.,small_airport,-6.9125,145.6731,5100,Norambi,PG110609,Yelia Rural LLG,PG1106,Obura/Wonenara District,PG11,Eastern Highlands Province
+PG-0035,Nowata Airport,small_airport,-9.984166667,149.7291667,2040,,PG050103,Weraura Rural LLG,PG0501,Alotau District,PG05,Milne Bay Province
+NWT,Nowata Airport,small_airport,-9.984166667,149.7291667,2040,Nowata,PG050103,Weraura Rural LLG,PG0501,Alotau District,PG05,Milne Bay Province
+AYWN,Nugwaia Airstrip,small_airport,-3.8183,142.835,279,Nugwaia,PG140521,North Wosera Rural LLG,PG1405,Wosera Gawi District,PG14,East Sepik Province
+PG-UKU,Nuku Airport,small_airport,-3.676651,142.484334,870,Nuku,PG150205,Mawase Rural LLG,PG1502,Nuku District,PG15,West Sepik (Sandaun) Province
+PG-OBX,Obo Airport,small_airport,-7.590622421,141.3242626,29,Obo,PG010104,Lake Murray Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+AYOD,Obura Airstrip,small_airport,-6.5507,145.9728,5600,Obura,PG110608,Lamari Rural LLG,PG1106,Obura/Wonenara District,PG11,Eastern Highlands Province
+OGE,Ogeranang Airport,small_airport,-6.46675,147.3641667,5850,,PG120206,Burum Kwat LLG,PG1202,Finschafen District,PG12,Morobe Province
+OKV,Okao Airport,small_airport,-5.556666667,141.0327778,450,Okao,PG010208,Ningerum Rural LLG,PG0102,North Fly District,PG01,Western Province
+AYOH,Okisai Airstrip,small_airport,-4.7065,141.9006,310,Okisai,PG150310,Telefomin Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+AYOJ,Oksapmin Airport,small_airport,-5.2261,142.2259,5140,Oksapmin,PG150309,Oksapmin Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+OLQ,Olsobip Airport,small_airport,-5.389722222,141.5152778,1500,Olsobip,PG010209,Olsobip Rural LLG,PG0102,North Fly District,PG01,Western Province
+AYUO,Omaura Airstrip,small_airport,-6.3679,145.9902,4860,Omaura,PG110419,Kamano No. 2 Rural LLG,PG1104,Kainanatu District,PG11,Eastern Highlands Province
+OML,Omkalai Airport,closed,-6.179,144.96,5700,Omkalai,PG100618,Suai Rural LLG,PG1006,Sina Sina Yonggomugl District,PG10,Chimbu (Simbu) Province
+OSE,Omora Airport,small_airport,-7.827777778,147.0806389,2540,Omora,PG120102,Waria Rural LLG,PG1201,Bulolo District,PG12,Morobe Province
+ONB,Ononge Airport,small_airport,-8.674361111,147.2624167,5800,Onange Mission,PG030206,Woitape Rural LLG,PG0302,Goilala District,PG03,Central Province
+RAX,Oram Airport,small_airport,-9.632916667,148.0480556,3500,,PG030413,Rigo Inland Rural LLG,PG0304,Rigo District,PG03,Central Province
+OTY,Oria Airport,small_airport,-6.577613,155.771022,551,Oria,PG200309,Buin LLG,PG2003,South Bougainville District,PG20,Autonomous Region of Bougainville
+PG-0053,Oriomo Airstrip,small_airport,-8.86,143.18,66,Oriomo,PG010314,Oriomo-Bituri Rural LLG,PG0103,South Fly District,PG01,Western Province
+OSG,Ossima Airport,small_airport,-2.915555556,141.2973056,205,Ossima,PG150413,Bewani/Wutung Onei Rural LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+AYZU,Oum Airstrip,small_airport,-4.2684,142.1273,80,Oum,PG140101,Ambunti Rural LLG,PG1401,Ambunti/Drekikier District,PG14,East Sepik Province
+PG-0050,Owena Airstrip,small_airport,-6.6962,145.8094,5500,Owenia,PG110608,Lamari Rural LLG,PG1106,Obura/Wonenara District,PG11,Eastern Highlands Province
+PLE,Paiela Airport,small_airport,-5.3725,142.9761111,6100,Paiela,PG080308,Paiela/Hewa Rural LLG,PG0803,Lagaip/Pogera District,PG08,Enga Province
+AYPW,Panakawa Airport,small_airport,-7.672055556,143.1247222,42,,PG010102,Bamu Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+PG-0070,Panasesa Airstrip,small_airport,-10.739,151.7255,13,Panasesa Island,PG050208,Bwanabwana Rural LLG,PG0502,Samarai-Murua District,PG05,Milne Bay Province
+AYPG,Pangia Airport,small_airport,-6.386,144.1084,5340,Pangia,PG070101,East Pangia Rural LLG,PG0701,Ialibu/Pangia District,PG07,Southern Highlands Province
+AYPC,Pangoa Airport,small_airport,-7.0226,141.5605,60,Pangoa,PG010104,Lake Murray Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+PPX,Param Airport,small_airport,-9.99,149.477,4490,Nepesi,PG050102,Daga Rural LLG,PG0501,Alotau District,PG05,Milne Bay Province
+PG-0036,Pasinkap Airstrip,small_airport,-5.015416667,144.8421389,255,Pasinkap,PG130307,Arabaka Rural LLG,PG1303,Middle Ramu District,PG13,Madang Province
+PMP,Pimaga Airport,small_airport,-6.499166667,143.5102778,2745,Pimaga,PG070722,Lake Kutubu Rural LLG,PG0707,Nipa/Kutubu District,PG07,Southern Highlands Province
+PDI,Pindiu Airport,small_airport,-6.445138889,147.5158333,2995,Pindiu,PG120232,Hube Rural LLG,PG1202,Finschafen District,PG12,Morobe Province
+RGE,Porgera Airport,closed,-5.4792,143.1236,7360,Porgera,PG080309,Porgera Rural LLG,PG0803,Lagaip/Pogera District,PG08,Enga Province
+PG-0071,Pori Airstrip,small_airport,-5.5782,142.7065,5235,Pori,PG210514,Awi/Pori Rural LLG,PG2105,Koroba/Kopiago District,PG21,Hela Province
+AYPY,Port Moresby Jacksons International Airport,large_airport,-9.443380356,147.2200012,146,Port Moresby,PG040101,National Capital District,PG0401,National Capital District,PG04,National Capital District
+PUA,Puas Airport,small_airport,-2.395,150.2361,45,Puas Mission,PG170102,Lovongai Rural LLG,PG1701,Kavieng District,PG17,New Ireland Province
+PG-0054,Pukapuki Airstrip,small_airport,-4.5362,142.5176,124,Pukapuki Vilage,PG140104,Tunap/Hustein LLG,PG1401,Ambunti/Drekikier District,PG14,East Sepik Province
+AYPQ,Pumani Airport,small_airport,-9.7469,149.4766,427,Pumani,PG050101,Makamaka Rural LLG,PG0501,Alotau District,PG05,Milne Bay Province
+PG-0037,Purari Airstrip,small_airport,-7.391111111,145.166519,90,,PG020207,Baimuru Rural LLG,PG0202,Kikori District,PG02,Gulf Province
+PUI,Pureni Airport,closed,-5.8429,142.8279,5512,Pureni,PG210517,South Koroba Rural LLG,PG2105,Koroba/Kopiago District,PG21,Hela Province
+AYPU,Puri Airport,small_airport,-6.475161111,143.9872222,6050,Puri,PG070310,Kuare Rural LLG,PG0703,Kagua/Erave District,PG07,Southern Highlands Province
+RBP,Raba Raba Airport,small_airport,-9.971111111,149.8322222,170,Rabaraba,PG050103,Weraura Rural LLG,PG0501,Alotau District,PG05,Milne Bay Province
+RAA,Rakanda Airport,small_airport,-4.2096,152.4385,38,Rakanda,PG180207,Duke of York Rural LLG,PG1802,Kokopo District,PG18,East New Britain Province
+RNR,Robinson River Airport,closed,-10.171,148.823,60,Robinson River,PG030103,Cloudy Bay Rural LLG,PG0301,Abau District,PG03,Central Province
+AYRG,Rumginae Airport,small_airport,-5.897222222,141.2716667,160,,PG010206,Kiunga Rural LLG,PG0102,North Fly District,PG01,Western Province
+RUU,Ruti Airport,small_airport,-5.334444444,144.2566667,1710,Kawbenaberi,PG090509,Baiyer Rural LLG,PG0905,Mul/Baiyer District,PG09,Western Highlands Province
+AYSH,Sabah Airport,small_airport,-5.5765,155.0489,10,Sabah,PG200101,Tinputz LLG,PG2001,North Bougainville District,PG20,Autonomous Region of Bougainville
+SFU,Safia Airport,small_airport,-9.593055556,148.6361111,430,Safia,PG060109,Safia Rural LLG,PG0601,Ijivitari District,PG06,Northern (Oro) Province
+SDI,Saidor Airport,small_airport,-5.627138889,146.4627778,83,Saidor,PG130412,Rai Coast Rural LLG,PG1304,Rai Coast District,PG13,Madang Province
+SAM,Salamo Airport,small_airport,-9.6701,150.7903,30,Salamo,PG050415,Dobu Rural LLG,PG0504,Esa'ala District,PG05,Milne Bay Province
+AYSZ,Samanzing Airstrip,small_airport,-6.4513,147.0673,6042,Samanzing,PG120824,Nabak Rural LLG,PG1208,Nawae District,PG12,Morobe Province
+PG-0055,Samban Airstrip,small_airport,-4.3655,144.0612,42,Samban School,PG140207,Keram Rural LLG,PG1402,Angoram District,PG14,East Sepik Province
+AYSM,Samberigi Airstrip,small_airport,-6.7193,143.9338,3830,Samberigi Mission,PG070308,Erave Rural LLG,PG0703,Kagua/Erave District,PG07,Southern Highlands Province
+AYSR,Sangera Airstrip,small_airport,-3.9678,143.2763,127,Sangera,PG140623,East Yangoru Rural LLG,PG1406,Yangoru Saussia District,PG14,East Sepik Province
+SMH,Sapmanga Airport,small_airport,-6.075277778,146.8111111,2912,Sapmanga,PG120414,Yus Rural LLG,PG1204,Kabwum District,PG12,Morobe Province
+TDS,Sasereme Airport,small_airport,-7.6217,142.868,121,Sasereme,PG010102,Bamu Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+SWG,Satwag Airport,small_airport,-6.139555556,147.2791667,4185,Satwag,PG120431,Komba Rural LLG,PG1204,Kabwum District,PG12,Morobe Province
+AYSV,Sauren Airport,small_airport,-5.9701,148.8543,46,Sauren,PG190103,Kandrian Coastal Rural LLG,PG1901,Kandrian/Gloucester District,PG19,West New Britain Province
+SXH,Sehulea Airport,small_airport,-9.964527778,151.1618611,30,Sehulea,PG050416,Duau Rural LLG,PG0504,Esa'ala District,PG05,Milne Bay Province
+AYSO,Selbang Airport,small_airport,-5.315,141.752,5130,Selbang,PG010209,Olsobip Rural LLG,PG0102,North Fly District,PG01,Western Province
+AYSI,Seltamin Airstrip,small_airport,-5.4122,141.8252,4285,Seltamin,PG010209,Olsobip Rural LLG,PG0102,North Fly District,PG01,Western Province
+PG-0038,Sengapi Airstrip,small_airport,-5.125833333,144.3236111,6242,Sengapi,PG130317,Kovon LLG,PG1303,Middle Ramu District,PG13,Madang Province
+AYSQ,Sepik Plains Airport,small_airport,-3.8821,143.6734,230,Sepik Plains,PG140625,Sausso Rural LLG,PG1406,Yangoru Saussia District,PG14,East Sepik Province
+AYSY,Serra Airstrip,small_airport,-2.9739,141.9297,37,Serai,PG150103,West Aitape Rural LLG,PG1501,Aitape/Lumi District,PG15,West Sepik (Sandaun) Province
+AYQS,Sialum Airport,small_airport,-6.0908,147.5955,170,Sialum,PG120926,Sialum Rural LLG,PG1209,Tawae/Siassi District,PG12,Morobe Province
+SSS,Siassi Airport,small_airport,-5.5965,147.8106,1250,Siassi,PG120927,Siassi Rural LLG,PG1209,Tawae/Siassi District,PG12,Morobe Province
+AYZW,Siawi Airstrip,small_airport,-4.061,141.4197,230,Siawi,PG150414,Green River Rural LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+AYZB,Sibilanga Airstrip,small_airport,-3.4458,142.501,2330,Sibilanga Mission,PG150206,Palmai Rural LLG,PG1502,Nuku District,PG15,West Sepik (Sandaun) Province
+AYSG,Sila Airport,small_airport,-9.073555556,148.38925,2230,Sila Mission,PG060103,Afore Rural LLG,PG0601,Ijivitari District,PG06,Northern (Oro) Province
+SWR,Silur Airport,small_airport,-4.529888889,153.0544444,217,Silur Mission,PG170207,Konoagil Rural LLG,PG1702,Namatanai District,PG17,New Ireland Province
+AYXI,Sim Airport,small_airport,-7.75,146.9273,5460,Sim,PG120102,Waria Rural LLG,PG1201,Bulolo District,PG12,Morobe Province
+AYSJ,Simbai Airport,small_airport,-5.278611111,144.5447222,5804,Simbai,PG130309,Simbai Rural LLG,PG1303,Middle Ramu District,PG13,Madang Province
+AYQB,Simbari Airstrip,small_airport,-6.9623,145.6448,3560,Simbari,PG110609,Yelia Rural LLG,PG1106,Obura/Wonenara District,PG11,Eastern Highlands Province
+AYSE,Simberi Airport,small_airport,-2.662222222,151.9977778,10,Simberi Island,PG170206,Sentral Niu Ailan Rural LLG,PG1702,Namatanai District,PG17,New Ireland Province
+AYQM,Simogu Airstrip,small_airport,-6.8008,145.7134,4990,Simogu,PG110609,Yelia Rural LLG,PG1106,Obura/Wonenara District,PG11,Eastern Highlands Province
+AYDY,Sindeni Airstrip,small_airport,-7.0077,145.7965,5710,Sindeni,PG110609,Yelia Rural LLG,PG1106,Obura/Wonenara District,PG11,Eastern Highlands Province
+AYQV,Sinow Airstrip,small_airport,-3.9925,141.5537,183,Sinow,PG150414,Green River Rural LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+AYSB,Sirebi Airstrip,small_airport,-7.2196,144.2352,115,Sirebi,PG020208,East Kikori Rural LLG,PG0202,Kikori District,PG02,Gulf Province
+AYXS,Sisamin Airstrip,small_airport,-5.1363,142.284,1675,Sisamin,PG150309,Oksapmin Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+SIZ,Sissano Airport,small_airport,-2.999444444,142.0445,27,Sissano,PG150103,West Aitape Rural LLG,PG1501,Aitape/Lumi District,PG15,West Sepik (Sandaun) Province
+SWE,Siwea Airport,small_airport,-6.284639,147.580833,5960,Siwea,PG120926,Sialum Rural LLG,PG1209,Tawae/Siassi District,PG12,Morobe Province
+AYLZ,Slai Airstrip,small_airport,-4.0322,143.1831,77,Slai,PG140519,Burui/Kunai Rural LLG,PG1405,Wosera Gawi District,PG14,East Sepik Province
+AYMY,Smok Airstrip,small_airport,-3.3158,141.2461,729,Smok,PG150416,Walsa Rural LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+AYPA,Somokopa Airstrip,small_airport,-7.0838,142.514,489,Somokopa,PG010105,Nomad Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+AYZQ,Sopise Airstrip,small_airport,-6.7887,144.1593,3450,Sopise,PG070308,Erave Rural LLG,PG0703,Kagua/Erave District,PG07,Southern Highlands Province
+AYQO,Sopu Airport,small_airport,-8.3038,147.1659,6580,Sopu,PG030205,Tapini Rural LLG,PG0302,Goilala District,PG03,Central Province
+SMP,Stockholm Airport,small_airport,-4.358,151.533,10,Stockholm,PG180103,Lassul Baining Rural LLG,PG1801,Gazelle District,PG18,East New Britain Province
+AYST,Sturt Island Airport,small_airport,-8.1525,142.2684444,40,,PG010103,Gogodala Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+AYSA,Suabi Airport,small_airport,-6.104444444,142.2783333,465,,PG010105,Nomad Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+AYUS,Suame Airstrip,small_airport,-8.3684,142.5862,71,Suame,PG010314,Oriomo-Bituri Rural LLG,PG0103,South Fly District,PG01,Western Province
+AYXG,Sugu Airstrip,small_airport,-6.3907,143.5565,4105,Sugu,PG070726,Poroma Rural LLG,PG0707,Nipa/Kutubu District,PG07,Southern Highlands Province
+PG-SKC,Suki Airport,small_airport,-8.0466,141.7222,24,Suki,PG010313,Morehead Rural LLG,PG0103,South Fly District,PG01,Western Province
+PG-ULE,Sule Airport,small_airport,-4.974720001,151.2969971,100,Sule,PG190206,Bialla Rural LLG,PG1902,Talasea District,PG19,West New Britain Province
+AYQW,Sumwari Airstrip,small_airport,-4.7508,142.3686,465,Sumwari,PG140104,Tunap/Hustein LLG,PG1401,Ambunti/Drekikier District,PG14,East Sepik Province
+SUZ,Suria Airport,closed,-9.032,147.45,2600,Suria,PG030309,Koiari Rural LLG,PG0303,Kairuku - Hiri District,PG03,Central Province
+TBA,Tabibuga Airport,closed,-5.5766,144.6508,4400,Tabibuga,PG220406,Jimi Rural LLG,PG2204,Jimi District,PG22,Jiwaka Province
+AYTB,Tabubil Airport,small_airport,-5.278610229,141.2259979,1570,Tabubil,PG010210,Star Mountains Rural LLG,PG0102,North Fly District,PG01,Western Province
+PG-ATP,Tadji Airport,small_airport,-3.198191804,142.4309635,33,Aitape,PG150101,East Aitape Rural LLG,PG1501,Aitape/Lumi District,PG15,West Sepik (Sandaun) Province
+TGL,Tagula Airport,small_airport,-11.33111111,153.2029167,59,Sudest Island,PG050210,Yaleyemba Rural LLG,PG0502,Samarai-Murua District,PG05,Milne Bay Province
+AYVL,Talasea Airport,small_airport,-5.2726,150.0089,44,Talasea,PG190211,Talasea Rural LLG,PG1902,Talasea District,PG19,West New Britain Province
+AYTL,Talbakul Airstrip,small_airport,-6.3708,144.7167,3500,Talbakul,PG100307,Karimui Rural LLG,PG1003,Karimui/Nomane District,PG10,Chimbu (Simbu) Province
+AYTM,Tamo Airstrip,small_airport,-4.7246,144.1529,140,Tamo,PG140207,Keram Rural LLG,PG1402,Angoram District,PG14,East Sepik Province
+AYTQ,Tapen Airstrip,small_airport,-5.8545,146.6371,5066,Tapen,PG130418,Rai Coast Rural LLG,PG1304,Rai Coast District,PG13,Madang Province
+AYTC,Tapila Airstrip,small_airport,-8.4188,142.9043,48,Mutam,PG010103,Gogodala Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+AYTI,Tapini Airport,small_airport,-8.356666667,146.9891667,3100,Tapini,PG030205,Tapini Rural LLG,PG0302,Goilala District,PG03,Central Province
+TBQ,Tarabo Airport,small_airport,-6.466666667,145.5322222,6100,Tarabo,PG110722,West Okapa Rural LLG,PG1107,Okapa District,PG11,Eastern Highlands Province
+AYTT,Tarakbits Airport,small_airport,-5.614,141.0421,281,Tarakbits,PG010208,Ningerum Rural LLG,PG0102,North Fly District,PG01,Western Province
+AYTA,Tari Airport,small_airport,-5.84499979,142.947998,5500,Tari,PG210829,Tari Urban LLG,PG2108,Tari/Pori District,PG21,Hela Province
+TSK,Taskul Airport,closed,-2.546,150.4553,100,Taskul,PG170102,Lovongai Rural LLG,PG1701,Kavieng District,PG17,New Ireland Province
+PG-0078,Tau Airstrip,closed,-3.6835,142.7187,700,Tauhimbier,PG140103,Gawanga Rural LLG,PG1401,Ambunti/Drekikier District,PG14,East Sepik Province
+TUT,Tauta Airport,closed,-5.8335,145.9341,4200,Tauta,PG130411,Naho Rawa Rural LLG,PG1304,Rai Coast District,PG13,Madang Province
+AYTW,Tawa Airport,small_airport,-7.4463,146.1067,5020,Tawa,PG120734,Nanima Kariba LLG,PG1207,Menyamya District,PG12,Morobe Province
+AYTZ,Tekadu Airport,small_airport,-7.6808,146.5503,1310,Tekadu,PG120105,Wau Rural LLG,PG1201,Bulolo District,PG12,Morobe Province
+AYTN,Tekin Airport,small_airport,-5.243666667,142.1651944,5785,Tekin,PG150309,Oksapmin Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+PG-TFM,Telefomin Airport,small_airport,-5.126080464,141.641922,4950,Telefomin,PG150310,Telefomin Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+AYTP,Tep Tep Airport,small_airport,-5.9553,146.5595,7011,Teptep,PG130418,Rai Coast Rural LLG,PG1304,Rai Coast District,PG13,Madang Province
+TEO,Terapo Airport,small_airport,-8.169722222,146.1944444,15,Terapo Mission,PG020106,Lakekamu-Tauri Rural LLG,PG0201,Kerema District,PG02,Gulf Province
+AYTD,Teredau Airport,small_airport,-7.3205,144.6384,100,Tetehui,PG020208,East Kikori Rural LLG,PG0202,Kikori District,PG02,Gulf Province
+TDB,Tetebedi Airport,small_airport,-9.1586,148.0686,3365,Tetebedi,PG060205,Kokoda Rural LLG,PG0602,Sohe District,PG06,Northern (Oro) Province
+TFB,Tifalmin Airport,small_airport,-5.1173,141.419,4735,Tifalmin,PG150310,Telefomin Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+TBE,Timbunke Airport,small_airport,-4.196633,143.519222,24,Timbunke,PG140205,Angoram/Middle Sepik LLG,PG1402,Angoram District,PG14,East Sepik Province
+TCK,Tinboli Airport,small_airport,-4.0949,143.3838,59,Tinboli,PG140205,Angoram/Middle Sepik LLG,PG1402,Angoram District,PG14,East Sepik Province
+TIG,Tingwon Airport,closed,-2.6053,149.7107,30,Tingwon Island,PG170102,Lovongai Rural LLG,PG1701,Kavieng District,PG17,New Ireland Province
+AYRR,Tiri Airstrip,small_airport,-6.6815,144.1842,4545,Tiri,PG070308,Erave Rural LLG,PG0703,Kagua/Erave District,PG07,Southern Highlands Province
+AYVB,Tobou Airstrip,small_airport,-6.4026,147.4223,4732,Tobou,PG120206,Burum Kwat LLG,PG1202,Finschafen District,PG12,Morobe Province
+AYTK,Tokua Airport,medium_airport,-4.340459824,152.3800049,32,Tokua,PG180206,Bitapaka Rural LLG,PG1802,Kokopo District,PG18,East New Britain Province
+PG-TLO,Tol Airport,small_airport,-4.980830193,152.0099945,49,Tol,PG180313,Sinivit Rural LLG,PG1803,Pomio District,PG18,East New Britain Province
+AYVO,Tonu Airport,small_airport,-6.6552,155.4326,300,Tonu,PG200310,Siwai LLG,PG2003,South Bougainville District,PG20,Autonomous Region of Bougainville
+AYVM,Torembi Airport,small_airport,-4.0165,143.1329,90,Torembi,PG140519,Burui/Kunai Rural LLG,PG1405,Wosera Gawi District,PG14,East Sepik Province
+TOK,Torokina Airport,small_airport,-6.2015,155.063,130,Torokina,PG200312,Torokina LLG,PG2003,South Bougainville District,PG20,Autonomous Region of Bougainville
+AYDP,Tsendiap Airstrip,small_airport,-5.3599,144.4462,1565,Tsendiap,PG220406,Jimi Rural LLG,PG2204,Jimi District,PG22,Jiwaka Province
+AYTS,Tsewi Airport,small_airport,-7.0695,146.1272,4185,Tsewi,PG120721,Kome Rural LLG,PG1207,Menyamya District,PG12,Morobe Province
+TSI,Tsile Tsile Airport,small_airport,-6.8498,146.3554,500,Tsile Tsile,PG120311,Wampar Rural LLG,PG1203,Huon District,PG12,Morobe Province
+AYQU,Tsumba Airstrip,small_airport,-4.6581,144.6082,89,Tsumba Mission,PG130307,Arabaka Rural LLG,PG1303,Middle Ramu District,PG13,Madang Province
+PG-TFI,Tufi Airport,small_airport,-9.075954437,149.3198395,85,Tufi,PG060102,Tufi Rural LLG,PG0601,Ijivitari District,PG06,Northern (Oro) Province
+TLP,Tumolbil Airport,small_airport,-4.7748,141.0133,3590,Tumolbil,PG150311,Yapsie Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+PG-0090,Turnbull Field,closed,-10.301537,150.38575,100,Alotau,PG050105,Huhu Rural LLG,PG0501,Alotau District,PG05,Milne Bay Province
+AYUV,Tuvau Airstrip,small_airport,-6.6025,145.8372,5300,Tuvau,PG110608,Lamari Rural LLG,PG1106,Obura/Wonenara District,PG11,Eastern Highlands Province
+AYUC,Umba Airport,small_airport,-7.0214,145.966,5950,Umba,PG120721,Kome Rural LLG,PG1207,Menyamya District,PG12,Morobe Province
+AYUR,Upiara Airport,small_airport,-8.5411,142.6503,52,Upiara,PG010314,Oriomo-Bituri Rural LLG,PG0103,South Fly District,PG01,Western Province
+AYUE,Uroubi Airport,small_airport,-9.5162,148.5591,481,Uroubi,PG060109,Safia Rural LLG,PG0601,Ijivitari District,PG06,Northern (Oro) Province
+AYUX,Usarumpia Airstrip,small_airport,-6.9858,145.8102,5820,Usarumpia,PG110609,Yelia Rural LLG,PG1106,Obura/Wonenara District,PG11,Eastern Highlands Province
+USO,Usino Airport,closed,-5.5276,145.371,430,Usino,PG130616,Usino Rural LLG,PG1306,Usino Bundi District,PG13,Madang Province
+ATUA,Utai Airstrip,small_airport,-3.386,141.5868,707,Utai,PG150412,Amanab Rural LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+AYUA,Utai Airstrip,small_airport,-3.386,141.5868,707,Utai,PG150412,Amanab Rural LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+AYUZ,Uvol Airport,small_airport,-6.0178,150.9557,15,Uvol,PG180312,Melkoi Rural LLG,PG1803,Pomio District,PG18,East New Britain Province
+AYVA,Vailala Airstrip,small_airport,-7.7677,145.4857,85,Hepa,PG020209,Ihu Rural LLG,PG0202,Kikori District,PG02,Gulf Province
+AYVN,Vanimo Airport,medium_airport,-2.6926,141.3028,10,Vanimo,PG150415,Vanimo Urban LLG,PG1504,Vanimo/Green River District,PG15,West Sepik (Sandaun) Province
+VIV,Vivigani Airfield,small_airport,-9.303333333,150.3188889,117,Vivigani,PG050313,Goodenough Isla LLG,PG0503,Kiriwina-Goodenough District,PG05,Milne Bay Province
+WAB,Wabag Airport,closed,-5.4915,143.72,6800,Wabag,PG080410,Wabag Urban LLG,PG0804,Wabag District,PG08,Enga Province
+AYWB,Wabo Airport,small_airport,-6.989444444,145.0751111,132,Wabo,PG020207,Baimuru Rural LLG,PG0202,Kikori District,PG02,Gulf Province
+WGU,Wagau Airport,closed,-6.8519,146.8022,3853,Wagau,PG120129,Buang Rural LLG,PG1201,Bulolo District,PG12,Morobe Province
+AYWQ,Wakunai Airport,small_airport,-5.8603,155.2223,20,Wakunai,PG200207,Wakunai LLG,PG2002,Central Bougainville District,PG20,Autonomous Region of Bougainville
+AGL,Wanigela Airport,small_airport,-9.3375,149.1555556,53,,PG060102,Tufi Rural LLG,PG0601,Ijivitari District,PG06,Northern (Oro) Province
+WTT,Wantoat Airport,small_airport,-6.1325,146.4677778,3900,Wantoat,PG120619,Wantoat/Leron Rural LLG,PG1206,Markham District,PG12,Morobe Province
+WNU,Wanuma Airport,small_airport,-4.8961,145.3213,2260,Wanuma,PG130308,Josephstaal Rural LLG,PG1303,Middle Ramu District,PG13,Madang Province
+AYWD,Wapenamanda Airport,medium_airport,-5.643300056,143.8950043,5889,,PG080513,Wapenamanda Rural LLG,PG0805,Wapenamanda District,PG08,Enga Province
+WBC,Wapolu Airport,small_airport,-9.3376,150.5093,45,Wapolu,PG050414,West Ferguson Rural LLG,PG0504,Esa'ala District,PG05,Milne Bay Province
+AYWV,Warasai Airstrip,small_airport,-4.012,142.51,150,Warasai,PG150217,Maimai Wanwan LLG,PG1502,Nuku District,PG15,West Sepik (Sandaun) Province
+AYWS,Wasu Airport,small_airport,-5.961709449,147.1982253,34,Wasu,PG120928,Wasu Rural LLG,PG1209,Tawae/Siassi District,PG12,Morobe Province
+WSA,Wasua Airport,small_airport,-8.2836,142.8697,45,Wasua,PG010103,Gogodala Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+AYZM,Wasum Airport,small_airport,-6.0491,149.337,175,Wasum,PG190103,Kandrian Coastal Rural LLG,PG1901,Kandrian/Gloucester District,PG19,West New Britain Province
+AYWU,Wau Airport,small_airport,-7.345555556,146.7186111,3600,Wau,PG120104,Wau/Bulolo Urban LLG,PG1201,Bulolo District,PG12,Morobe Province
+AYWF,Wawoi Falls Airport,small_airport,-6.9523,142.6557,370,Wavoi Falls,PG010102,Bamu Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+AYXW,Weam Airport,small_airport,-8.6184,141.1381,50,Weam,PG010313,Morehead Rural LLG,PG0103,South Fly District,PG01,Western Province
+WED,Wedau Airport,small_airport,-10.0954,150.0826,90,Wedau,PG050103,Weraura Rural LLG,PG0501,Alotau District,PG05,Milne Bay Province
+AYWK,Wewak International Airport,medium_airport,-3.583830118,143.6690063,19,Wewak,PG140418,Wewak Urban LLG,PG1404,Wewak District,PG14,East Sepik Province
+PG-WPM,Wipim Airport,small_airport,-8.788220406,142.8820038,173,Wipim,PG010314,Oriomo-Bituri Rural LLG,PG0103,South Fly District,PG01,Western Province
+AYIX,Witu Airport,small_airport,-4.689522,149.440112,25,Garove Island,PG190207,Bali/Witu Rural LLG,PG1902,Talasea District,PG19,West New Britain Province
+PG-0024,Wobagen Airstrip,small_airport,-5.274722222,142.0341667,6050,,PG150309,Oksapmin Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+AYWT,Woitape Airport,small_airport,-8.545833333,147.2525,5200,Fatima Mission,PG030206,Woitape Rural LLG,PG0302,Goilala District,PG03,Central Province
+AYWO,Wonenara Airport,small_airport,-6.796861111,145.8919444,5028,Wonenara,PG110609,Yelia Rural LLG,PG1106,Obura/Wonenara District,PG11,Eastern Highlands Province
+AYVP,Woposali Airstrip,small_airport,-6.6577,144.2974,2009,Woposali,PG070308,Erave Rural LLG,PG0703,Kagua/Erave District,PG07,Southern Highlands Province
+AYBX,Wowobo Airstrip,small_airport,-7.3405,144.5477,74,Wowobo,PG020208,East Kikori Rural LLG,PG0202,Kikori District,PG02,Gulf Province
+WUV,Wuvulu Island Airport,small_airport,-1.736111111,142.8366667,16,Wuvulu Island,PG160101,Aua Wuvulu LLG,PG1601,Manus District,PG16,Manus Province
+AYBY,Wuyabo Airstrip,small_airport,-6.8378,145.8732,6400,Wuyabo,PG110609,Yelia Rural LLG,PG1106,Obura/Wonenara District,PG11,Eastern Highlands Province
+AYYQ,Yagrombok Airstrip,small_airport,-3.585,142.6285,1509,Yagrombok,PG140102,Dreikikier Rural LLG,PG1401,Ambunti/Drekikier District,PG14,East Sepik Province
+AYYE,Yalumet Airport,small_airport,-6.09,147.0117,2600,Yalumet,PG120412,Deyamos Rural LLG,PG1204,Kabwum District,PG12,Morobe Province
+AYYJ,Yanungen Airstrip,small_airport,-3.4574,142.54,1880,Yanungen,PG150206,Palmai Rural LLG,PG1502,Nuku District,PG15,West Sepik (Sandaun) Province
+KPE,Yapsiei Airport,small_airport,-4.628055556,141.0941667,600,,PG150311,Yapsie Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+PG-0087,Yassip Airstrip,closed,-3.512,142.702,1630,Yassip Mission,PG140102,Dreikikier Rural LLG,PG1401,Ambunti/Drekikier District,PG14,East Sepik Province
+AYYR,Yasuru Airport,small_airport,-6.6015,146.1813,1520,Yasuru,PG120617,Onga/Waffa Rural LLG,PG1206,Markham District,PG12,Morobe Province
+AYYD,Yatoam Airstrip,small_airport,-5.0949,142.3846,2060,Yatoam,PG210515,Lake Kopiago Rural LLG,PG2105,Koroba/Kopiago District,PG21,Hela Province
+AYYV,Yawa Airstrip,small_airport,-4.1003,142.1351,120,Yawa,PG140101,Ambunti Rural LLG,PG1401,Ambunti/Drekikier District,PG14,East Sepik Province
+AYYW,Yawan Airstrip,small_airport,-6.1339,146.8438,4870,Yawan,PG120414,Yus Rural LLG,PG1204,Kabwum District,PG12,Morobe Province
+AYXY,Yebil Airstrip,small_airport,-3.4625,141.9559,1400,Yebil,PG150104,West Wapei Rural LLG,PG1501,Aitape/Lumi District,PG15,West Sepik (Sandaun) Province
+PGE,Yegepa Airport,small_airport,-7.134444444,146.1563889,4179,,PG120722,Wapi Rural LLG,PG1207,Menyamya District,PG12,Morobe Province
+PG-0072,Yehebi Airstrip,small_airport,-6.3928,142.2661,335,Yehebi,PG010105,Nomad Rural LLG,PG0101,Middle Fly District,PG01,Western Province
+AYYG,Yemin Airstrip,small_airport,-3.967,142.2912,230,Yemin,PG150217,Maimai Wanwan LLG,PG1502,Nuku District,PG15,West Sepik (Sandaun) Province
+YEQ,Yenkis(Yankisa) Airport,small_airport,-5.109722222,143.9176667,3692,,PG080205,Wapi-Yengis Rural LLG,PG0802,Kompiam District,PG08,Enga Province
+AYXE,Yeva Airport,small_airport,-7.548,146.188,4510,Yeva,PG120734,Nanima Kariba LLG,PG1207,Menyamya District,PG12,Morobe Province
+AYYI,Yili Airstrip,small_airport,-3.5322,142.1645,1500,Yili,PG150207,Yangkok Rural LLG,PG1502,Nuku District,PG15,West Sepik (Sandaun) Province
+AYZY,Yilui Airstrip,small_airport,-3.9292,142.2045,265,Yilui,PG150308,Namea Rural LLG,PG1503,Telefomin District,PG15,West Sepik (Sandaun) Province
+AYYN,Yimnalem Airstrip,small_airport,-5.1441,144.5956,4800,Yimnalem,PG130309,Simbai Rural LLG,PG1303,Middle Ramu District,PG13,Madang Province
+PG-0086,Yinugen Airstrip,closed,-3.457,142.54,1860,Yinugen,PG150206,Palmai Rural LLG,PG1502,Nuku District,PG15,West Sepik (Sandaun) Province
+AYJE,Yomneri Airstrip,small_airport,-5.237,144.6007,6100,Yomneri,PG130309,Simbai Rural LLG,PG1303,Middle Ramu District,PG13,Madang Province
+AYJO,Yongai Airport,small_airport,-8.5289,147.4603,6500,Yongai,PG030206,Woitape Rural LLG,PG0302,Goilala District,PG03,Central Province
+ZEN,Zenag Airport,small_airport,-6.952222222,146.61625,3200,Zenag,PG120101,Mumeng Rural LLG,PG1201,Bulolo District,PG12,Morobe Province
+AYZZ,Zuebak Airstrip,small_airport,-6.3088,146.5568,3560,Zuebak,PG120619,Wantoat/Leron Rural LLG,PG1206,Markham District,PG12,Morobe Province
