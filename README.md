@@ -7,3 +7,17 @@ Therefore, there is a need for a platform that can quantitatively measure and vi
 ## Panorama
 This tool functions as an image processing tool that displays panoramic views of the airstrip. These are 360 degree image files which are geotagged to the location it was taken. The tool provides an immersive environment that has the same aesthetic look and function of google streetview. Currently under development to include an upload button to upload these 360 degree image files.
 ![image](https://user-images.githubusercontent.com/73019564/174815461-7aceb0e2-b0bb-4f85-9c65-92699a829793.png)
+## LPT - Location Predictor Tool
+The Location Prediction Tool works by taking input coordinates in decimal degree (dd) format along with elevation in feet (ft) to predict the most likely province that it is located in Papua New Guinea. The tool was developed using a machine learning approach in which the Randon Forest algorithm was used. It was trained on 475 data points of airstrip locations spread around the country attaining a 90% precision in its prediction. An additional feature of the LPT is the ability for it to obtain population statistics of the province through web scarping, which is a technique for obtaining data stored on the web.
+![image](https://user-images.githubusercontent.com/73019564/174816230-5ca7a9c6-5045-4f15-b0e9-e61936f47b74.png)
+## PARIAM - Predictive Aerodrome Reach and Impact Area Model
+The Predictive Aerodrome Reach and Impact Area Model creates an interpolated surface from gps location of airstrips stored in its database. This surface will be weighted to topography, settlement locations and waterway connectivity to provide a quantifiable impact and reach assessment of an area if an airstrip is operational or allocated anywhere in Papua New Guinea. For this tool to perform its analysis, it requires a country spatial file of Papua New Guinea and the province to perform its analysis. The output is the modelled reach of airstrips within the region where it assumes the proximity distance people prefer to travel. 
+![image](https://user-images.githubusercontent.com/73019564/174816352-c2026a15-7f05-438b-8015-f05a6c1b23d5.png)
+# Summary
+- The Airport Inspector for the first time, makes it possible to visualize serviceability into these remote areas in the country and provides a glimpse of just how effective airstrip location can make to rural areas.
+- Provides a simple interface for any user with limited GIS experience.
+- Map Outputs and statistical results can be incorporated into reports, adding value to data driven proposals for funding, awareness etc
+- Can be used to allocate areas for proposed intervention measures e.g, the PARIAM identified an area that is out of reach from nearby airstrips. Therefore an intervention measure would be to build an airstrip there.
+- Can help the organisation measure its success through the PARIAM tool by showing how much of the country it is impacting through its airstrip programs.
+
+
