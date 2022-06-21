@@ -19,5 +19,6 @@ The Predictive Aerodrome Reach and Impact Area Model creates an interpolated sur
 - Map Outputs and statistical results can be incorporated into reports, adding value to data driven proposals for funding, awareness etc
 - Can be used to allocate areas for proposed intervention measures e.g, the PARIAM identified an area that is out of reach from nearby airstrips. Therefore an intervention measure would be to build an airstrip there.
 - Can help the organisation measure its success through the PARIAM tool by showing how much of the country it is impacting through its airstrip programs.
-
-
+# Further Development
+- Feature Detection tool is a concept tool to detect cones on the airstrip and return the total number of cones as well as the colours detected from a flyby image either taken from a drone or from the window of an aircraft or helicopter. This would improve survey time during maintenance or survey runs.
+- Soil Testing Tool is a concept tool that endeavours to detect and predict areas of the airstrip that are soft, firm or solid. This will be built using a supervised machine learning approach that will take variables such as vegetation index, soil index and penetrometer results to create the predicted surface for every part of the airstrip. It hopes to use drone imagery that’s captured using a multispectral camera.
