@@ -16,6 +16,7 @@ library(caret)
 library(rgdal)
 library(raster)
 library(shinycssloaders)
+library(randomForest)
 source("Population_Density.R")
 source("Province_Clip_Function.R")
 source("Filter_Density_Function.R")
@@ -51,7 +52,7 @@ imgs_fn <- list.files("www", pattern = "JPG$|JPEG$", ignore.case = TRUE)
 
 # Load trained model for location prediction
 #load("fit.rf.rda")
-provinceModel <- readRDS("provinceModel.rds")
+provinceModel <- readRDS("data/provinceModel.rds")
 
 # Province list
 prov_list <- c(pngmap$ADM1_EN)
