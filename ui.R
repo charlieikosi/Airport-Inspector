@@ -2,6 +2,7 @@ ui <- dashboardPage(
   dashboardHeader(title = "Airport Inspector"),
   dashboardSidebar(
     sidebarMenu(
+      menuItem("Database", tabName = "database", icon = icon("database")),
       menuItem("Airports", tabName = "Survey1", icon = icon("arrow-alt-circle-right")),
       menuItem("Statistics", tabName = "Survey2", icon = icon("chart-bar")),
       menuItem("Variability", tabName = "Survey3", icon = icon("map")),
@@ -23,6 +24,11 @@ ui <- dashboardPage(
       tags$link(rel = "stylesheet", type = "text/css", href = "custom.css") # This css adds a custom font change to the main header. note to use this, a "www" folder must be created in the working directory and a "custom.css file stored in there
     ),
     tabItems(
+      
+       # Database Tab elements
+      
+      tabItem(tabName = "database",
+              tableOutput("table")),
       
       # Survey Tab Elements - sub menu 1
       
