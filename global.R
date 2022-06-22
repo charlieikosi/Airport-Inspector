@@ -41,7 +41,7 @@ survey_strip <- read_csv("data/airports_survey_report.csv") %>% st_as_sf(coords 
 # data required for boxplots
 p1 <- ggplot(airstrip_sf, aes(x=Prov_name, y=elevation_)) + 
   geom_boxplot(fill = "red")
-p2 <- p1 + theme(plot.title = element_text(size = 20, face="bold", margin = margin(10,0,10,0), hjust = 0.5),
+p2 <- p1 + theme(plot.title = element_text(size = 20, face="bold", margin = ggplot2::margin(10,0,10,0), hjust = 0.5),
                  axis.text.x = element_text(angle = 75, hjust = 1)) + 
   labs(y="Elevation (feet)", x = "Province") + 
   ggtitle("Boxplot of Airstrips vs Elevation")
