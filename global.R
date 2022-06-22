@@ -51,7 +51,7 @@ imgs_fn <- list.files("www", pattern = "JPG$|JPEG$", ignore.case = TRUE)
 
 # Load trained model for location prediction
 #load("fit.rf.rda")
-provinceModel <- readRDS("provinceModel.rds")
+provinceModel <- readRDS("data/provinceModel.rds")
 
 # Province list
 prov_list <- c(pngmap$ADM1_EN)
