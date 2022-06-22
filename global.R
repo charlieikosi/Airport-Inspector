@@ -60,13 +60,10 @@ prov_list <- c(pngmap$ADM1_EN)
 # Elevation raster in ft
 #dem <- raster("data/PNG_dem_feet.tif")
 #save(dem, file = "dem1.rda")
-load("dem1.rda")
+#load("dem1.rda")
 
 # Elevation in meters
 #dem_meters1 <- brick("data/PNG_dem_meters.tif")
 #save(dem_meters, file ="dem2_meters.rda")
-load("dem2_meters.rda")
+#load("dem2_meters.rda")
 
-
-logs <- fromJSON(file = "logs/shinylogs_Airport Inspector_1655852568032553000.json")
-print(logs)
