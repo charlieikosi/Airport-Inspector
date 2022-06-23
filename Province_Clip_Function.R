@@ -8,9 +8,9 @@ region_clip <- function(raster_file, polygon_file, region) {
     dplyr::filter(ADM1_EN == region )
   clip_extent <- raster::extent(region_poly)
   extent_raster <- raster::crop(x = raster_file, y = clip_extent)
-  raster_clip <- raster::mask(x = extent_raster, mask = region_poly)
+  Reach <- raster::mask(x = extent_raster, mask = region_poly)
   #tm_basemap(leaflet::providers$Esri.WorldImagery) + 
-    tm_shape(raster_clip) + tm_raster(n = 10, 
+    tm_shape(Reach) + tm_raster(n = 10, 
                                     style = "fisher",
                                     palette = "-RdYlBu", 
                                     midpoint = NA,
