@@ -97,6 +97,8 @@ ui <- dashboardPage(
                                        multiple = TRUE,
                                        accept = c('.shp','.dbf','.sbn','.sbx',
                                                   '.shx','.prj', '.cpj', '.csv')),
+                             checkboxInput("checkbox1", "Show Airstrips",
+                                           value = FALSE),
                              selectInput("province_input",
                                          "Select Region",
                                          choices = unique(prov_list), multiple = F),
