@@ -178,10 +178,22 @@ server <-function(input, output, session) {
     r2 <- density_outer95_boundary(r)
     clips <- region_clip(r2,map(), input$province_input)
   })
-  output$map4 <- renderTmap({
-       reactive_button_2a()
-    
+  # Checkbox - checkbox 1
+  
+  reactive_button_2b <- eventReactive(input$crop, {
+    Airports <- airstrip %>% filter(Prov_name == input$province_input) %>%
+      dplyr::select(2, 4, 5, 13) %>% st_as_sf(coords = c("longitude_", "latitude_d"), crs = 4326)
+    df_dots <- tm_shape(Airports) + tm_dots(legend.show = FALSE)
+    if(input$checkbox1 == TRUE)
+    {return(df_dots)}
   })
+  
+  # Map Output
+  
+  output$map4 <- renderTmap({
+    reactive_button_2a() + reactive_button_2b() + tm_mouse_coordinates()
+  })
+
  
   
 }
