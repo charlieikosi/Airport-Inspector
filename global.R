@@ -29,6 +29,13 @@ source("Filter_Density_Function.R")
 pngmap <- st_read("arcgis/png_adm_nso_20190508_shp/png_admbnda_adm1_nso_20190508.shp")
 var <- tm_shape(pngmap)+ tm_fill("IQR",id="ADM1_EN", alpha = 0.5) + tm_view(set.view = c(145.920000,-6.500000,5.5)) + tm_polygons(alpha = 0.1)
 
+# Formatted Table for Display in DB
+db_table <- airstrip
+    colnames(db_table) <- c("ICAO", "Airstrip Name", "Airstrip Type", "Latitude",
+                            "Longitude", "Elevation (ft)", "Municipality", "LLG PCode",
+                            "LLG", "District PCode", "District", "Province PCode",
+                            "Province")
+
 # Below is the required data for the map:
 airstrip <- read_csv("data/airports_geocoded.csv")# this is the data from which the airstrip information is obtained
 airstrip_sf <- st_as_sf(airstrip, coords = c("longitude_", "latitude_d"), crs = 4326) # Geocoded the airstrip object using st_as_sf()
