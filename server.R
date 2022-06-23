@@ -2,13 +2,7 @@ server <-function(input, output, session) {
   
    # Database Tab
   output$table <- DT::renderDataTable({
-    db_table <- airstrip
-    colnames(db_table) <- c("ICAO", "Airstrip Name", "Airstrip Type", "Latitude",
-                            "Longitude", "Elevation (ft)", "Municipality", "LLG PCode",
-                            "LLG", "District PCode", "District", "Province PCode",
-                            "Province")
     db_table
-
   })
   
   
