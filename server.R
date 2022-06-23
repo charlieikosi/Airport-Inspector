@@ -1,11 +1,5 @@
 server <-function(input, output, session) {
-  
-   # Database Tab
-  output$table <- DT::renderDataTable({
-    db_table
-  })
-  
-  
+
   # Survey tab leaflet map - 1
  
   observe({
