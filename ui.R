@@ -86,11 +86,15 @@ ui <- dashboardPage(
       tabItem(tabName = "Survey6",
               titlePanel("Predictive Aerodrome Reach and Impact Area Model (PARIAM)"),
               sidebarLayout(
-                sidebarPanel(fileInput("upload",
-                                       "Upload a shape file containing polygons",
+                sidebarPanel(#fileInput("upload",
+                                       #"Upload a shape file containing polygons",
+                                       #multiple = TRUE,
+                                       #accept = c('.shp','.dbf','.sbn','.sbx',
+                                                  #'.shx','.prj', '.cpj', '.csv')),
+                             fileInput("upload2",
+                                       "Upload .csv file containing coordinates (DD foramt)",
                                        multiple = TRUE,
-                                       accept = c('.shp','.dbf','.sbn','.sbx',
-                                                  '.shx','.prj', '.cpj', '.csv')),
+                                       accept = c(".csv")),
                              checkboxInput("checkbox1", "Show Airstrips",
                                            value = FALSE),
                              selectInput("province_input",
@@ -110,7 +114,8 @@ ui <- dashboardPage(
       
       tabItem(tabName = "Survey7",
               titlePanel("Feature Detection"),
-              box("Currently under development"))
+              #box("Currently under development"),
+             box(DT::dataTableOutput("table")))
     )
   )
 )
