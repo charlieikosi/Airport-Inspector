@@ -39,13 +39,6 @@ airstrip_sf <- st_as_sf(airstrip, coords = c("longitude_", "latitude_d"), crs = 
 airstrip_count <- count(airstrip, "name") # counted the number of airstrips in the column titled "name".
 total_count <- airstrip_count %>% dplyr::select(n) %>% filter(n == airstrip_count$n) # Then filtered to only display the value of the count
 
-# Formatted Table for Display in DB
-db_table <- airstrip
-    colnames(db_table) <- c("ICAO", "Airstrip Name", "Airstrip Type", "Latitude",
-                            "Longitude", "Elevation (ft)", "Municipality", "LLG PCode",
-                            "LLG", "District PCode", "District", "Province PCode",
-                            "Province")
-
 # data required for dynamic info box
 survey_strip <- read_csv("data/airports_survey_report.csv") %>% st_as_sf(coords = c("longitude_", "latitude_d"), crs = 4326)
 
