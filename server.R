@@ -176,7 +176,7 @@ server <-function(input, output, session) {
     df <- filter_function(airstrip,input$province_input)
     r <- density_coverage(df,x_min,x_max, y_min, y_max)
     r2 <- density_outer95_boundary(r)
-    clips <- region_clip(r2,map(), input$province_input)
+    clips <- region_clip(r2,pngmap, input$province_input)
   })
   # Checkbox - checkbox 1
   
