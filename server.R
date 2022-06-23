@@ -133,26 +133,30 @@ server <-function(input, output, session) {
   
   # PARIAM
   # File upload
-   map <- reactive({
+   #map <- reactive({
     #req(input$filemap)
     
-    shpdf <- input$upload
+    #shpdf <- input$upload
     
-    tempdirname <- dirname(shpdf$datapath[1])
+    #tempdirname <- dirname(shpdf$datapath[1])
     
-    for (i in 1:nrow(shpdf)) {
-      file.rename(
-        shpdf$datapath[i],
-        paste0(tempdirname, "/", shpdf$name[i])
-      )
-    }
+    #for (i in 1:nrow(shpdf)) {
+      #file.rename(
+        #shpdf$datapath[i],
+        #paste0(tempdirname, "/", shpdf$name[i])
+      #)
+    #}
     
-    map <- readOGR(paste(tempdirname,
-                         shpdf$name[grep(pattern = "*.shp$", shpdf$name)],
-                         sep = "/")) %>% st_as_sf()
-    map
-  })
+    #map <- readOGR(paste(tempdirname,
+                         #shpdf$name[grep(pattern = "*.shp$", shpdf$name)],
+                         #sep = "/")) %>% st_as_sf()
+    #map
+  #})
 
+  # File upload-csv
+   data_csv <- reactive({
+    read.csv(input$upload2$datapath)
+    })
   # selectinput
   
   reactive_button_2a <- eventReactive(input$crop, {
@@ -182,7 +186,12 @@ server <-function(input, output, session) {
     reactive_button_2a() + reactive_button_2b() + tm_mouse_coordinates()
   })
 
- 
+   # Feature Detection
+
+  output$table <- DT::renderDataTable({
+    data_csv()
+    
+  })
   
 }
 
