@@ -107,10 +107,8 @@ ui <- dashboardPage(
                   box(
                     em("The Predictive Aerodrome Reach and Impact Area Model (PARIAM) 
                         creates an interpolated surface from input gps location of airstrips. This surface
-                        will source its prediction values from topography, settlement locations and waterway connectivity to
-                        provide a quantifable impact and reach assessment of an area if an airstrip is operational or allocated anywhere
-                        in Papua New Guinea.
-                        It is currently under development."), width = 100),
+                        models reach of airstrips within a region where it assumes the proximity distance people prefer 
+                        to travel."), width = 100),
                   box(withSpinner(tmapOutput("map4")), type = 5, width = 318),
                   box(textOutput("cover"))))),
       
