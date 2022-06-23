@@ -91,7 +91,7 @@ server <-function(input, output, session) {
                                      ") # this is the interpretation text for the boxplot. It is manually typed out through visual inspection
   
   
-  output$boxplot_text2 <- renderText("There is very high variability in the distribution of airstrips in Papua New Guinea.This is owed to the rugged topography of the country.")
+  output$boxplot_text2 <- renderText("There is very high variability in the distribution of airstrips in Papua New Guinea and is due to the rugged topography of the country.")
   
   
   # Variability map
