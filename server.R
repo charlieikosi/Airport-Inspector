@@ -154,9 +154,9 @@ server <-function(input, output, session) {
   #})
 
   # File upload-csv
-   data_csv <- reactive({
-    read.csv(input$upload2$datapath)
-    })
+   #data_csv <- reactive({
+    #read.csv(input$upload2$datapath)
+    #})
   # selectinput
   
   reactive_button_2a <- eventReactive(input$crop, {
@@ -188,10 +188,10 @@ server <-function(input, output, session) {
 
    # Feature Detection
 
-  output$table <- DT::renderDataTable({
-    data_csv()
+  #output$table <- DT::renderDataTable({
+    #data_csv()
     
-  })
+  #})
   
 }
 
