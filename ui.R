@@ -43,7 +43,7 @@ ui <- dashboardPage(
       # Statistics Tab Elements
       
       tabItem(tabName = "Survey2",
-              box(plotlyOutput("myplot", height = 550), width = 12),
+              box(withSpinner(plotlyOutput("myplot", height = 550)), width = 12),
               box(h4("BOX PLOT INTERPRETATION"), width = 12, height = 150,
                   textOutput("boxplot_text")),
               box(h4("AIRSTRIP DISTRIBUTION"), width = 12, height = 150,
@@ -52,7 +52,7 @@ ui <- dashboardPage(
       # Variability Tab elements
       
       tabItem(tabName = "Survey3",
-              box(tmapOutput("map2", height = 400), width = 12), width = 12, height = 650,
+              box(withSpinner(tmapOutput("map2", height = 400)), width = 12), width = 12, height = 650,
               tabsetPanel(type = "tabs", 
                           tabPanel("Plot",plotOutput("plot")))),
       
