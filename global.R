@@ -32,8 +32,8 @@ var <- tm_shape(pngmap)+ tm_fill("IQR",id="ADM1_EN", alpha = 0.5) + tm_view(set.
 #"https://raw.githubusercontent.com/charlieikosi/Airport-Inspector/main/data/airports_geocoded.csv"
 
 # Below is the required data for the map:
-#airstrip <- read_csv("data/airports_geocoded.csv")# this is the data from which the airstrip information is obtained
-airstrip <- read_csv("https://raw.githubusercontent.com/charlieikosi/Airport-Inspector/main/data/airports_geocoded.csv")
+airstrip <- read_csv("data/airports_geocoded.csv")# this is the data from which the airstrip information is obtained
+#airstrip <- read_csv("https://raw.githubusercontent.com/charlieikosi/Airport-Inspector/main/data/airports_geocoded.csv")
 airstrip_sf <- st_as_sf(airstrip, coords = c("longitude_", "latitude_d"), crs = 4326) # Geocoded the airstrip object using st_as_sf()
 
 # data required for static info box.
